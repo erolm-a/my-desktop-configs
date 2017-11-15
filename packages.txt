@@ -30,7 +30,6 @@ appstream-qt
 apr
 apr-util
 aqbanking
-arc-firefox-theme-maia
 archlinux-appstream-data
 archlinux-keyring
 arduino
@@ -83,6 +82,7 @@ breeze-gtk
 breeze-icons
 broadcom-wl-dkms
 btrfs-progs
+bubblewrap
 bzip2
 bzr
 c-ares
@@ -202,7 +202,6 @@ filesystem
 filezilla
 findutils
 firefox
-firefox-arc-maia-settings
 fixesproto
 flac
 flashplugin
@@ -302,6 +301,7 @@ grantlee
 grantlee-qt4
 graphene
 graphite
+graphviz
 grep
 groff
 grub
@@ -335,6 +335,7 @@ gtkmm3
 gtksourceview2
 gtkspell
 gtkterm-git
+gts
 guile
 guile1.8
 guile2.0
@@ -722,6 +723,7 @@ libftdi-compat
 libgadu
 libgcrypt
 libgdiplus
+libgee
 libgit2
 libgksu
 libglade
@@ -963,7 +965,6 @@ lximage-qt
 lxmenu-data
 lxqt-about
 lxqt-admin
-lxqt-common
 lxqt-config
 lxqt-globalkeys
 lxqt-notificationd
@@ -975,6 +976,7 @@ lxqt-qtplugin
 lxqt-runner
 lxqt-session
 lxqt-sudo
+lxqt-themes
 lz4
 lzo
 lzop
@@ -1234,12 +1236,14 @@ python-docopt
 python-gobject
 python-gobject2
 python-idna
+python-jedi
 python-keyutils
 python-mako
 python-markupsafe
 python-npyscreen
 python-numpy
 python-packaging
+python-parso
 python-path
 python-pexpect
 python-pickleshare
@@ -1413,7 +1417,6 @@ remmina
 renderproto
 reptyr
 rest
-rfkill
 rhash
 rp-pppoe
 rsync
@@ -1492,6 +1495,7 @@ sratom
 sshfs
 startup-notification
 sudo
+suil
 swt
 syntax-highlighting
 sysfsutils
@@ -1561,6 +1565,7 @@ ttf-oxygen
 ttf-selawik
 ttf-tahoma
 turbostat
+twolame
 typespeed
 tzdata
 udiskie
@@ -1581,7 +1586,6 @@ util-linux
 v4l-utils
 v86d
 vagrant
-vagrant-substrate
 vala
 valgrind
 vamp-plugin-sdk
