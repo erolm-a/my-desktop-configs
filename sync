@@ -17,9 +17,9 @@ if [ $# == 1 ]; then
     cp -pr ~/.config/gtk-3.0 gtk/
     cp -pr ~/.gtkrc-2.0 gtk/gtkrc-2.0
     cp -pr ~/.config/conky/ .
+    cp -pr ~/.config/polybar .
     pacman -Q | cut "-d " -f 1 > packages.txt
   elif [ $1 == pull ]; then
-    mkdir -p $LOCAL_INSTALL
     mkdir -p $LOCAL_INSTALL/.i3
     mkdir -p $LOCAL_INSTALL/.config/conky
 
@@ -28,7 +28,8 @@ if [ $# == 1 ]; then
     cp -pr compton.conf $LOCAL_INSTALL/.config/
     cp -pr gtk/gtk-3.0 $LOCAL_INSTALL/.config/gtk-3.0
     cp -pr gtk/gtkrc-2.0 $LOCAL_INSTALL/.gtkrc-2.0
-    cp -pr conky $LOCAL_INSTALL/config/
+    cp -pr conky $LOCAL_INSTALL/.config/
+    cp -pr polybar $LOCAL_INSTALL/.config/
   else
     echo "Wrong parametres"
     help

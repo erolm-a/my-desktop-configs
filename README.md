@@ -1,7 +1,7 @@
 # My Laptop configuration
 
 I am running Arch Linux (precisely, Manjaro, but am using my 
-custom flavour) with my personal scripts
+custom flavour and testing branch) with my personal scripts
 
 # What I used
 
@@ -19,9 +19,11 @@ custom flavour) with my personal scripts
 * pcmanfm
 * dmenu
 * bmenu
-* morc_menu (manjaro menu, available in Manjaro i3 spin…)
+* morc_menu (manjaro menu, available in Manjaro i3 spin)
 * sddm
 * compton
+* polybar (replacement for i3-status)
+* pavucontrol (for Audio)
 
 ## Themes
 * breeze-dark (both GTK and Qt)
