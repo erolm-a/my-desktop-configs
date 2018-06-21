@@ -1,0 +1,2869 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\User\\S-1-5-21-0-0-0-1000
+
+#arch=win64
+
+[AppEvents\\Schemes\\Apps\\.Default\\MenuPopup] 1527977694
+#time=1d3fabf229190ea
+
+[AppEvents\\Schemes\\Apps\\.Default\\SystemAsterisk] 1529345170
+#time=1d4072f09c973b2
+
+[AppEvents\\Schemes\\Apps\\.Default\\SystemExclamation] 1528064724
+#time=1d3fb89c475a6d8
+
+[AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1466063387
+#time=1d1c7a3a7c7cd2a
+@=""
+
+[Console] 1504009438
+#time=1d320c1b07235b4
+"ColorTable00"=dword:00000000
+"ColorTable01"=dword:00800000
+"ColorTable02"=dword:00008000
+"ColorTable03"=dword:00808000
+"ColorTable04"=dword:00000080
+"ColorTable05"=dword:00800080
+"ColorTable06"=dword:00008080
+"ColorTable07"=dword:00c0c0c0
+"ColorTable08"=dword:00808080
+"ColorTable09"=dword:00ff0000
+"ColorTable10"=dword:0000ff00
+"ColorTable11"=dword:00ffff00
+"ColorTable12"=dword:000000ff
+"ColorTable13"=dword:00ff00ff
+"ColorTable14"=dword:0000ffff
+"ColorTable15"=dword:00ffffff
+"CursorSize"=dword:00000019
+"CursorVisible"=dword:00000001
+"EditionMode"=dword:00000000
+"ExitOnDie"=dword:00000001
+"FaceName"="Courier New\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0"
+"FontSize"=dword:00100008
+"FontWeight"=dword:00000000
+"HistoryBufferSize"=dword:00000032
+"HistoryNoDup"=dword:00000000
+"InsertMode"=dword:00000001
+"MenuMask"=dword:00000000
+"PopupColors"=dword:000000f5
+"QuickEdit"=dword:00000000
+"ScreenBufferSize"=dword:00190050
+"ScreenColors"=dword:0000000f
+"WindowSize"=dword:00190050
+
+[Control Panel\\Accessibility\\Blind Access] 1466063330
+#time=1d1c7a385c2c374
+"On"="0"
+
+[Control Panel\\Accessibility\\Keyboard Preference] 1466063330
+#time=1d1c7a385c2b956
+"On"="1"
+
+[Control Panel\\Accessibility\\ShowSounds] 1466063330
+#time=1d1c7a385c2c59a
+"On"="0"
+
+[Control Panel\\Colors] 1491939580
+#time=1d2b2fb5c69191c
+"ActiveBorder"="49 54 58"
+"ActiveTitle"="49 54 58"
+"AppWorkSpace"="60 64 72"
+"Background"="49 54 58"
+"ButtonAlternativeFace"="200 0 0"
+"ButtonDkShadow"="154 154 154"
+"ButtonFace"="49 54 58"
+"ButtonHilight"="119 126 140"
+"ButtonLight"="60 64 72"
+"ButtonShadow"="60 64 72"
+"ButtonText"="219 220 222"
+"GradientActiveTitle"="49 54 58"
+"GradientInactiveTitle"="49 54 58"
+"GrayText"="155 155 155"
+"Hilight"="119 126 140"
+"HilightText"="255 255 255"
+"InactiveBorder"="49 54 58"
+"InactiveTitle"="49 54 58"
+"InactiveTitleText"="219 220 222"
+"InfoText"="159 167 180"
+"InfoWindow"="49 54 58"
+"Menu"="49 54 58"
+"MenuBar"="49 54 58"
+"MenuHilight"="119 126 140"
+"MenuText"="219 220 222"
+"Scrollbar"="73 78 88"
+"TitleText"="219 220 222"
+"Window"="35 38 41"
+"WindowFrame"="49 54 58"
+"WindowText"="219 220 222"
+
+[Control Panel\\Desktop] 1529611927
+#time=1d4099c2124d4d8
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"DoubleClickHeight"="4"
+"DoubleClickWidth"="4"
+"DragFullWindows"="0"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000000
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000001
+"ForegroundFlashCount"=dword:00000003
+"ForegroundLockTimeout"=dword:00000000
+"IconTitleWrap"="1"
+"LogPixels"=dword:00000060
+"LowPowerActive"="0"
+"MenuShowDelay"="400"
+"UserPreferencesMask"=hex:30,00,00,80,10,00,00,00
+"Wallpaper"=""
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+
+[Control Panel\\Desktop\\WindowMetrics] 1529611931
+#time=1d4099c23bd022e
+"BorderWidth"="1"
+"CaptionFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,00,\
+  00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"CaptionHeight"="-270"
+"CaptionWidth"="-270"
+"IconFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,20,00,\
+  44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"IconSpacing"="-1125"
+"IconTitleWrap"="1"
+"IconVerticalSpacing"="-1125"
+"MenuFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"MenuHeight"="-270"
+"MenuWidth"="-270"
+"MessageFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"PaddedBorderWidth"="0"
+"ScrollHeight"="-240"
+"ScrollWidth"="-240"
+"Shell Icon Size"="32"
+"SmCaptionFont"=hex:fa,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"SmCaptionHeight"="-225"
+"SmCaptionWidth"="-225"
+"StatusFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[Control Panel\\International] 1466063327
+#time=1d1c7a383d206d8
+"iCalendarType"="1"
+"iCountry"="39"
+"iCurrDigits"="2"
+"iCurrency"="2"
+"iDate"="1"
+"iDigits"="2"
+"iFirstDayOfWeek"="0"
+"iFirstWeekOfYear"="2"
+"iLDate"="1"
+"iLZero"="1"
+"iMeasure"="0"
+"iNegCurr"="9"
+"iNegNumber"="1"
+"iPaperSize"="9"
+"iTime"="1"
+"iTimePrefix"="0"
+"iTLZero"="0"
+"LC_CTYPE"="00000410"
+"LC_MEASUREMENT"="00000410"
+"LC_MONETARY"="00000410"
+"LC_NUMERIC"="00000410"
+"LC_PAPER"="00000410"
+"LC_TELEPHONE"="00000410"
+"LC_TIME"="00000410"
+"Locale"="00000410"
+"Numshape"="1"
+"s1159"=""
+"s2359"=""
+"sCountry"="Italy"
+"sCurrency"="\x20ac"
+"sDate"="/"
+"sDecimal"=","
+"sGrouping"="3;0"
+"sLanguage"="ITA"
+"sList"=";"
+"sLongDate"="dddd d MMMM yyyy"
+"sMonDecimalSep"=","
+"sMonGrouping"="3;0"
+"sMonThousandSep"="."
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="dd/MM/yyyy"
+"sThousand"="."
+"sTime"="."
+"sTimeFormat"="H.mm.ss"
+"sYearMonth"="MMMM yyyy"
+
+[Control Panel\\Keyboard] 1466063330
+#time=1d1c7a385c2ba00
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[Control Panel\\Mouse] 1466063330
+#time=1d1c7a385c2c784
+"ActiveWindowTracking"=dword:00000000
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[Control Panel\\Sound] 1466063330
+#time=1d1c7a385c2a588
+"Beep"="Yes"
+
+[Environment] 1466063331
+#time=1d1c7a38631fbfe
+"TEMP"="C:\\users\\erolm_a\\Temp"
+"TMP"="C:\\users\\erolm_a\\Temp"
+
+[Keyboard Layout\\Preload] 1466063330
+#time=1d1c7a385cc91ec
+"1"="00000410"
+
+[Software\\athre0z\\IDASkins] 1529349260
+#time=1d407388f3cbaaa
+"firstStart"="false"
+"selectedThemeDir"="adwaita-dark"
+
+[Software\\Classes\\.PML] 1526746372
+#time=1d3ef8c3d271c38
+@="ProcMon.Logfile.1"
+
+[Software\\Classes\\ProcMon.Logfile.1] 1526746372
+#time=1d3ef8c3d272444
+@="ProcMon Log File"
+
+[Software\\Classes\\ProcMon.Logfile.1\\DefaultIcon] 1526746372
+#time=1d3ef8c3d272502
+@="\"Z:\\home\\erolm_a\\Documenti\\CTF\\w3challs\\challenge37\\crackme\\process monitor\\Procmon.exe\",0"
+
+[Software\\Classes\\ProcMon.Logfile.1\\shell\\open\\command] 1526746372
+#time=1d3ef8c3d2722fa
+@="\"Z:\\home\\erolm_a\\Documenti\\CTF\\w3challs\\challenge37\\crackme\\process monitor\\Procmon.exe\" /OpenLog \"%1\""
+
+[Software\\CodeBlocks] 1506955605
+#time=1d33b8d44f1f9dc
+"Path"="C:\\Program Files (x86)\\CodeBlocks"
+
+[Software\\CodeBlocks\\Components] 1506955605
+#time=1d33b8d44f1eb7c
+"A68k Assembler"="1"
+"Abbreviations plugin"="1"
+"Ada"="1"
+"Angelscript"="1"
+"AStyle plugin"="1"
+"Auto Versioning plugin"="1"
+"Autosave plugin"="1"
+"bash script"="1"
+"BiBTeX"="1"
+"Browse Tracker plugin"="1"
+"Byo Games plugin"="1"
+"C/C++"="1"
+"C::B CBP2Make"="1"
+"C::B Launcher"="1"
+"C::B Share Config"="1"
+"Caml"="1"
+"Cccc plugin"="1"
+"Class Wizard plugin"="1"
+"Cmake"="1"
+"Code Completion plugin"="1"
+"Code Snippets plugin"="1"
+"Code Statistics plugin"="1"
+"Coffee"="1"
+"Compiler plugin"="1"
+"Copy Strings plugin"="1"
+"Core Files (required)"="1"
+"CppCheck plugin"="1"
+"Cscope plugin"="1"
+"CSS"="1"
+"Debugger plugin"="1"
+"Desktop Shortcut"="1"
+"DevPak plugin"="1"
+"diff"="1"
+"DOS batch files"="1"
+"DoxyBlocks plugin"="1"
+"Drag Scroll plugin"="1"
+"Editor tweaks plugin"="1"
+"EditorConfig plugin"="1"
+"EnvVars plugin"="1"
+"Exporter plugin"="1"
+"File Manager plugin"="1"
+"Fortran"="1"
+"Fortran Project plugin"="1"
+"Game Monkey"="1"
+"GLSL (GLslang)"="1"
+"Google Protocol Buffer"="1"
+"Haskell"="1"
+"HeaderFixUp plugin"="1"
+"Help plugin"="1"
+"HexEditor plugin"="1"
+"Hitachi Assembler"="1"
+"HTML"="1"
+"IncrementalSearch plugin"="1"
+"Intel HEX"="1"
+"Java"="1"
+"JavaScript"="1"
+"Key Binder plugin"="1"
+"Koders plugin"="1"
+"LaTeX"="1"
+"Lib Finder plugin"="1"
+"Lisp"="1"
+"Lua"="1"
+"Makefile"="1"
+"MASM"="1"
+"Matlab"="1"
+"MIME Handler plugin"="1"
+"MinGW Compiler Suite"="1"
+"Motorola S-Record"="1"
+"MouseSap plugin"="1"
+"Nassi Shneiderman plugin"="1"
+"NSIS installer script"="1"
+"nVidia Cg"="1"
+"Objective-C"="1"
+"Occurrences Highlighting plugin"="1"
+"Ogre"="1"
+"Open Files List plugin"="1"
+"Pascal"="1"
+"Perl"="1"
+"Postscript"="1"
+"Profiler plugin"="1"
+"Program Shortcut"="1"
+"Program Shortcut All Users"="1"
+"Project Options Manipulator plugin"="1"
+"Projects Importer plugin"="1"
+"Property file"="1"
+"Python"="1"
+"Quick Launch Shortcut"="1"
+"RegEx Testbed plugin"="1"
+"Reopen Editor plugin"="1"
+"RND Generator plugin"="1"
+"Ruby"="1"
+"Scripted Wizard plugin"="1"
+"SmallTalk"="1"
+"SmartIndent plugin"="1"
+"SpellChecker plugin"="1"
+"Sql"="1"
+"Squirrel"="1"
+"SymTab plugin"="1"
+"Tektronix extended HEX"="1"
+"The D Language"="1"
+"ThreadSearch plugin"="1"
+"ToDo List plugin"="1"
+"Tools+ plugin"="1"
+"VB Script"="1"
+"Verilog"="1"
+"VHDL"="1"
+"Windows registry file"="1"
+"wxSmith plugin"="1"
+"XBase"="1"
+"XML"="1"
+"XP Look And Feel plugin"="1"
+
+[Software\\CrypTool\\Recent File List] 1528538110
+#time=1d3ffd7f4697f2a
+"File1"="C:\\users\\erolm_a\\Documenti\\CTF\\HackingLab\\5069\\first.dec.txt"
+"File2"="Z:\\home\\erolm_a\\Documenti\\CTF\\HackingLab\\7555\\myfile.dat"
+"File3"="Z:\\home\\erolm_a\\Documenti\\CTF\\HackingLab\\7015\\c1.txt"
+"File4"="Z:\\home\\erolm_a\\Documenti\\CTF\\HackingLab\\7015\\c3.txt"
+
+[Software\\CrypTool\\Settings\\Logging] 1521228902
+#time=1d3bd5de0d66228
+"LogFileName"=""
+
+[Software\\CrypTool\\Settings\\Options\\StartingOptions] 1525866121
+#time=1d3e78abea65562
+"MainWindowHeight"=dword:000002c9
+"MainWindowPositionX"=dword:00000000
+"MainWindowPositionY"=dword:0000001d
+"MainWindowWidth"=dword:0000055e
+"NoTipps"=dword:00000001
+"SampleTextFile"=dword:00000000
+
+[Software\\CrypTool\\Settings\\SignatureAttack] 1521228902
+#time=1d3bd5de0fec970
+"DangerousFile"="C:\\Program Files (x86)\\CrypTool\\examples\\fake.txt"
+"HarmlessFile"="C:\\Program Files (x86)\\CrypTool\\examples\\original.txt"
+
+[Software\\CrypTool\\Settings\\UserKeyStore] 1521228902
+#time=1d3bd5de0dbcc72
+"Path"="C:\\users\\erolm_a\\Application Data\\CrypTool\\"
+"UseUserKeyStore"=dword:00000001
+
+[Software\\CrypTool\\Settings\\VigenereAnalysisSchroedel] 1521228957
+#time=1d3bd5e01cfc064
+"DictionaryFile"="C:\\Program Files (x86)\\CrypTool\\words\\VigenereAnalysisSchroedelDictionary.txt"
+"DigramsFile"="C:\\Program Files (x86)\\CrypTool\\words\\VigenereAnalysisSchroedelDigrams.txt"
+"ExtensiveLogging"=dword:00000000
+"TrigramsFile"="C:\\Program Files (x86)\\CrypTool\\words\\VigenereAnalysisSchroedelTrigrams.txt"
+
+[Software\\Digia\\LicenseManager] 1506956118
+#time=1d33b8e76b0d4d8
+
+[Software\\Hex-Rays\\IDA] 1529612065
+#time=1d4099c731fe5de
+"ArrowsPalette"=hex:00,b1,ab,00,04,73,ea,00,ff,aa,00,00,00,80,00,00,40,40,ff,\
+  00
+"AutoCheckUpdates"=dword:00000000
+"AutoHighlightColorQ"=dword:00a65566
+"AutoRequestUpdates"=dword:00000000
+"DebuggerPalette"=hex:48,1e,68,00,91,13,4a,00,48,1e,68,00,08,08,08,00,4f,00,00,\
+  00,00,62,00,00,48,1e,68,00,ff,80,00,00,ff,ff,ff,00,00,bb,ff,00,b8,07,7a,00
+"DisplayWelcome"=dword:00000001
+"GraphOverviewGradient"=dword:00000001
+"GraphPalette"=hex:dd,dd,dd,00,aa,aa,aa,00,f5,f5,f5,00,29,01,b9,00,29,01,b9,00,\
+  ff,ff,00,00,24,24,24,00,06,35,26,00,40,01,29,00,ff,00,00,00,00,43,cb,00,00,\
+  91,00,00,bc,00,00,00,ff,cc,00,00,52,02,f0,00
+"HintColorQ"=dword:00080808
+"InformedAboutUpdates2"=dword:00000001
+"InputDirectory"="C:/Program Files/IDA 7.0"
+"License Jiang Ying, Personal license"=dword:00000001
+"MiscPalette"=hex:00,00,00,00,ff,ff,ff,00,cb,62,65,00,ff,80,00,00
+"NavPalette"=hex:00,aa,ff,00,15,67,ff,00,0c,2c,83,00,23,c1,3e,00,56,56,56,00,\
+  c8,16,c8,00,ca,00,00,00,1a,1a,1a,00,80,ff,00,00
+"NavPaletteExtended"=hex:ff,80,00,00
+"OutputDirectory"="C:/users/erolm_a/Documenti/CTF/root-me/elf-antidebug"
+"Palette"=hex:49,44,41,43,4c,52,01,00,03,00,00,00,00,00,00,00,00,00,ff,00,00,\
+  00,ff,00,80,80,80,00,80,80,80,00,00,00,80,00,00,00,80,00,00,00,ff,00,00,00,\
+  ff,00,00,00,80,00,00,80,00,00,00,ff,00,00,00,80,00,00,ff,80,00,00,00,80,00,\
+  00,80,80,ff,00,ff,00,00,00,80,80,00,00,01,01,01,00,c0,c0,c0,00,00,00,ff,00,\
+  00,00,ff,00,00,00,ff,00,80,80,80,00,80,80,ff,00,00,80,00,00,00,00,80,00,00,\
+  00,ff,00,80,00,80,00,00,80,00,00,00,80,00,00,00,80,40,00,00,00,80,00,00,00,\
+  80,00,ff,00,ff,00,80,80,00,00,00,00,80,00,00,00,ff,00,00,00,80,00,00,00,ff,\
+  00,00,00,00,00,ff,ff,ff,00,c0,bb,af,00,00,ff,ff,00,00,00,00,00,80,00,00,00,\
+  80,80,80,00,80,80,00,00,ff,00,ff,00,00,00,00,00,00,00,ff,00,00,00,00,00,00,\
+  00,00,00,ff,ff,00,00,ff,ff,ff,00,c0,c0,c0,00,c0,c0,c0,00,c0,c0,c0,00,c0,c0,\
+  c0,00,ff,ff,00,00,ff,ff,ff,00,c0,c0,c0,00,00,ff,00,00,00,ff,00,00,00,ff,ff,\
+  00,ff,00,00,00,00,ff,00,00,00,ff,ff,00,ff,00,00,00,80,80,00,00,01,01,01,00,\
+  c0,c0,c0,00,ff,ff,ff,00,ff,ff,00,00,ff,ff,ff,00,c0,c0,c0,00,00,ff,ff,00,00,\
+  ff,00,00,c0,c0,c0,00,ff,ff,00,00,80,00,80,00,00,ff,00,00,00,ff,00,00,00,ff,\
+  ff,00,c0,c0,c0,00,c0,c0,c0,00,ff,00,ff,00,ff,ff,00,00,c0,c0,c0,00,ff,ff,00,\
+  00,ff,ff,00,00,ff,ff,00,00,00,00,00,00,00,00,ff,00,c0,c0,c0,00,00,ff,ff,00,\
+  c0,c0,c0,00,80,00,00,00,c0,c0,c0,00,80,80,00,00,ff,00,ff,00,00,00,00,00,ff,\
+  ff,00,00,00,00,00,00,00,00,00,00,00,00,ff,00,00,00,ff,00,80,80,80,00,80,80,\
+  80,00,00,00,80,00,00,00,80,00,00,00,ff,00,00,00,ff,00,00,00,80,00,00,80,00,\
+  00,00,ff,00,00,00,80,00,00,ff,80,00,00,00,80,00,00,80,80,ff,00,ff,00,00,00,\
+  80,80,00,00,01,01,01,00,c0,c0,c0,00,00,00,ff,00,00,00,ff,00,00,00,ff,00,80,\
+  80,80,00,80,80,ff,00,00,80,00,00,00,00,80,00,00,00,ff,00,80,00,80,00,00,80,\
+  00,00,00,80,00,00,00,80,40,00,00,00,80,00,00,00,80,00,ff,00,ff,00,80,80,00,\
+  00,00,00,80,00,00,00,ff,00,00,00,80,00,00,00,ff,00,00,00,00,00,ff,ff,ff,00,\
+  c0,bb,af,00,00,ff,ff,00,00,00,00,00,80,00,00,00,80,80,80,00,80,80,00,00,ff,\
+  00,ff,00,00,00,00,00,00,00,ff,00,00,00,00,00,00,00,00,00,aa,aa,aa,00,d2,69,\
+  df,00,b1,5c,b1,00,f4,ee,de,00,ff,ff,ff,00,cf,cf,a4,00,eb,eb,b9,00,df,0a,1c,\
+  00,c0,c0,c0,00,69,d2,00,00,00,ff,00,00,d2,50,32,00,ff,46,46,00,1a,a2,cb,00,\
+  2d,ad,24,00,d2,50,32,00,2d,ad,24,00,ff,34,37,00,c0,c0,c0,00,ca,ca,ca,00,ff,\
+  c5,f3,00,ff,aa,ff,00,ff,d5,00,00,00,c8,c8,00,ff,80,00,00,ff,d5,00,00,f1,c9,\
+  00,00,df,07,7e,00,ff,bb,0e,00,ff,bb,0e,00,e2,55,35,00,f3,f3,f3,00,3b,a7,b9,\
+  00,ff,5a,fd,00,ff,ff,7f,00,aa,ff,00,00,f1,c9,00,00,ff,aa,ff,00,ff,ff,00,00,\
+  00,00,00,00,04,04,04,00,e3,e3,e3,00,00,ff,ff,00,00,9f,e3,00,25,58,bf,00,1d,\
+  c0,17,00,a3,07,1f,00,ff,55,ff,00,ff,aa,00,00,ff,aa,00,00,00,00,00,00
+"QState"=hex:00,00,00,ff,00,00,00,01,fd,00,00,00,02,00,00,00,01,00,00,00,00,00,\
+  00,00,00,fc,02,00,00,00,01,fb,00,00,00,1c,00,41,00,64,00,64,00,72,00,65,00,\
+  73,00,73,00,44,00,65,00,74,00,61,00,69,00,6c,00,73,00,00,00,00,00,ff,ff,ff,\
+  ff,00,00,00,3c,00,ff,ff,ff,00,00,00,02,00,00,05,56,00,00,00,32,fc,01,00,00,\
+  00,01,fb,00,00,00,12,00,4e,00,61,00,76,00,69,00,67,00,61,00,74,00,6f,00,72,\
+  01,00,00,00,00,00,00,05,56,00,00,00,46,00,ff,ff,ff,00,00,05,56,00,00,02,6f,\
+  00,00,00,04,00,00,00,04,00,00,00,08,00,00,00,08,fc,00,00,00,01,00,00,00,02,\
+  00,00,00,19,00,00,00,16,00,46,00,69,00,6c,00,65,00,54,00,6f,00,6f,00,6c,00,\
+  42,00,61,00,72,01,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  16,00,4a,00,75,00,6d,00,70,00,54,00,6f,00,6f,00,6c,00,42,00,61,00,72,01,00,\
+  00,00,3a,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,1a,00,53,00,65,00,61,\
+  00,72,00,63,00,68,00,54,00,6f,00,6f,00,6c,00,42,00,61,00,72,01,00,00,00,8c,\
+  ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,16,00,48,00,69,00,64,00,65,00,\
+  54,00,6f,00,6f,00,6c,00,42,00,61,00,72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,\
+  00,00,00,00,00,00,00,00,1e,00,41,00,6e,00,61,00,6c,00,79,00,73,00,69,00,73,\
+  00,54,00,6f,00,6f,00,6c,00,42,00,61,00,72,01,00,00,01,34,ff,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,18,00,56,00,69,00,65,00,77,00,73,00,54,00,6f,00,\
+  6f,00,6c,00,42,00,61,00,72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,\
+  00,00,00,00,20,00,47,00,72,00,61,00,70,00,68,00,56,00,69,00,65,00,77,00,54,\
+  00,6f,00,6f,00,6c,00,42,00,61,00,72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,\
+  00,00,00,00,00,00,00,18,00,4c,00,69,00,73,00,74,00,73,00,54,00,6f,00,6f,00,\
+  6c,00,42,00,61,00,72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,\
+  00,00,20,00,53,00,69,00,67,00,6e,00,54,00,79,00,70,00,65,00,73,00,54,00,6f,\
+  00,6f,00,6c,00,42,00,61,00,72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,\
+  00,00,00,00,00,22,00,53,00,74,00,72,00,75,00,63,00,74,00,45,00,6e,00,75,00,\
+  6d,00,54,00,6f,00,6f,00,6c,00,42,00,61,00,72,00,00,00,00,00,ff,ff,ff,ff,00,\
+  00,00,00,00,00,00,00,00,00,00,2c,00,43,00,72,00,6f,00,73,00,73,00,52,00,65,\
+  00,66,00,65,00,72,00,65,00,6e,00,63,00,65,00,73,00,54,00,6f,00,6f,00,6c,00,\
+  42,00,61,00,72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  1e,00,53,00,65,00,67,00,6d,00,65,00,6e,00,74,00,73,00,54,00,6f,00,6f,00,6c,\
+  00,42,00,61,00,72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,16,00,45,00,64,00,69,00,74,00,54,00,6f,00,6f,00,6c,00,42,00,61,00,72,01,\
+  00,00,01,6e,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,24,00,4f,00,70,00,\
+  65,00,72,00,61,00,6e,00,64,00,54,00,79,00,70,00,65,00,54,00,6f,00,6f,00,6c,\
+  00,42,00,61,00,72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,20,00,55,00,74,00,69,00,6c,00,69,00,74,00,69,00,65,00,73,00,54,00,6f,00,\
+  6f,00,6c,00,42,00,61,00,72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,\
+  00,00,00,00,20,00,46,00,75,00,6e,00,63,00,74,00,69,00,6f,00,6e,00,73,00,54,\
+  00,6f,00,6f,00,6c,00,42,00,61,00,72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,\
+  00,00,00,00,00,00,00,26,00,45,00,6e,00,75,00,6d,00,65,00,72,00,61,00,74,00,\
+  69,00,6f,00,6e,00,73,00,54,00,6f,00,6f,00,6c,00,42,00,61,00,72,00,00,00,00,\
+  00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,22,00,53,00,74,00,72,00,75,\
+  00,63,00,74,00,75,00,72,00,65,00,73,00,54,00,6f,00,6f,00,6c,00,42,00,61,00,\
+  72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,1e,00,43,00,\
+  6f,00,6d,00,6d,00,65,00,6e,00,74,00,73,00,54,00,6f,00,6f,00,6c,00,42,00,61,\
+  00,72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,1a,00,47,\
+  00,72,00,61,00,70,00,68,00,73,00,54,00,6f,00,6f,00,6c,00,42,00,61,00,72,00,\
+  00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,18,00,44,00,65,00,\
+  62,00,75,00,67,00,54,00,6f,00,6f,00,6c,00,42,00,61,00,72,01,00,00,02,27,ff,\
+  ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,24,00,44,00,62,00,67,00,43,00,6f,\
+  00,6d,00,6d,00,61,00,6e,00,64,00,73,00,54,00,6f,00,6f,00,6c,00,42,00,61,00,\
+  72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,24,00,42,00,\
+  72,00,65,00,61,00,6b,00,70,00,6f,00,69,00,6e,00,74,00,73,00,54,00,6f,00,6f,\
+  00,6c,00,42,00,61,00,72,01,00,00,03,3f,ff,ff,ff,ff,00,00,00,00,00,00,00,00,\
+  00,00,00,1c,00,57,00,61,00,74,00,63,00,68,00,65,00,73,00,54,00,6f,00,6f,00,\
+  6c,00,42,00,61,00,72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,\
+  00,00,1c,00,54,00,72,00,61,00,63,00,69,00,6e,00,67,00,54,00,6f,00,6f,00,6c,\
+  00,42,00,61,00,72,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00
+"QuickFilterFlags_Choose segment to jump"=dword:80000000
+"QuickFilterFlags_Command palette_0"=dword:80000003
+"QuickFilterFlags_Exports"=dword:80000000
+"QuickFilterFlags_Functions window"=dword:80000000
+"QuickFilterFlags_Imports"=dword:80000000
+"QuickFilterFlags_Patched bytes"=dword:80000000
+"QuickFilterFlags_Please choose a symbol"=dword:80000000
+"QuickFilterFlags_xrefs to main"=dword:80000000
+"RegistryVersion"=dword:000002b2
+"SearchBin"=hex(1):
+"SearchText"=hex(1):
+"uiConfig"=hex:ff,ff,ff,ff,00,00,00,00,00,00,00,00,02,00,00,00,01,00,00,00,00,\
+  00,00,00,ff,ff,ff,ff,00,00,01,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,02,00,\
+  00,00,00,00,00,00,00,00,00,00,4d,00,01,05,00,00,00,00
+"uiConfig64"=hex:ff,ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,ff,ff,ff,ff,00,00,01,00,ff,\
+  ff,ff,ff,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,02,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,4d,00,01,05,00,00,00,\
+  00
+
+[Software\\Hex-Rays\\IDA\\Font\\Disassembly] 1527977756
+#time=1d3fabf4763ca50
+"Bold"=dword:00000000
+"Italic"=dword:00000000
+"Name"="Droid Sans Mono"
+"Size"=dword:0000000a
+"Style"=hex(1):
+
+[Software\\Hex-Rays\\IDA\\Font\\Hex view] 1527977677
+#time=1d3fabf1841e0b8
+
+[Software\\Hex-Rays\\IDA\\Font\\Output window] 1527977613
+#time=1d3fabef1f6d51c
+
+[Software\\Hex-Rays\\IDA\\Font\\Text input] 1527977625
+#time=1d3fabef8fd0aa2
+
+[Software\\Hex-Rays\\IDA\\Geometry] 1529612057
+#time=1d4099c6ead39f2
+"TWelcomeForm"=hex:01,d9,d0,cb,00,02,00,00,ff,ff,ff,fc,00,00,00,07,00,00,05,59,\
+  00,00,03,03,00,00,00,00,00,00,00,1e,00,00,05,55,00,00,02,ff,00,00,00,00,00,\
+  00,00,00,05,56
+
+[Software\\Hex-Rays\\IDA\\Hidden Messages] 1529612064
+#time=1d4099c7290ce4e
+"The current debugger backend   s  does not provide memory information to IDA  Therefore the memory c"=dword:00000001
+
+[Software\\Hex-Rays\\IDA\\History] 1529345265
+#time=1d4072f41de11ae
+"0"="C:\\users\\erolm_a\\Documenti\\CTF\\root-me\\elf-keygen\\KeygenMe.idb"
+"1"="C:\\users\\erolm_a\\Documenti\\CTF\\root-me\\elf-antidebug\\ch13.idb"
+
+[Software\\Hex-Rays\\IDA\\History\\$] 1529258189
+#time=1d4066484d50a10
+
+[Software\\Hex-Rays\\IDA\\History\\f] 1529261206
+#time=1d4066b8b2ecf8e
+"0"="C:\\users\\erolm_a\\Documenti\\CTF\\root-me\\elf-antidebug\\xor-f2.bin"
+"1"="C:\\users\\erolm_a\\Documenti\\CTF\\root-me\\elf-antidebug\\xor-f2.bak"
+
+[Software\\Hex-Rays\\IDA\\History\\I] 1527977613
+#time=1d3fabef2169e4c
+
+[Software\\Hex-Rays\\IDA\\History\\N] 1529257010
+#time=1d40661c5d100a8
+
+[Software\\Hex-Rays\\IDA\\History\\q] 1529342413
+#time=1d407289dfab20a
+"0"="keygen_username_p1"
+"1"="f13"
+"10"="still_clock"
+"11"="req4_manage_signal"
+"12"="req3_manage_signal"
+"13"="req2_manage_signal"
+"14"="req_manage_signal"
+"15"="manage_signal"
+"16"="f8"
+"17"="f7"
+"18"="f6"
+"19"="req4_f5"
+"2"="f12"
+"20"="req3_f5"
+"21"="req2_f5"
+"22"="req_f5"
+"23"="f5"
+"24"="req_f4"
+"25"="f4"
+"26"="f3"
+"27"="req2_f2"
+"28"="req_f2"
+"29"="f2"
+"3"="req_get_password"
+"30"="90 90"
+"31"="f1"
+"4"="get_password"
+"5"="alleluja"
+"6"="f11"
+"7"="f10"
+"8"="f9"
+"9"="req_still_clock"
+
+[Software\\Hex-Rays\\IDA\\History\\UIFLTR] 1527977613
+#time=1d3fabef22f3dda
+
+[Software\\Hex-Rays\\IDA\\History64] 1528064975
+#time=1d3fb8a59cd4966
+"0"="C:\\users\\erolm_a\\Documenti\\Sviluppo\\kernel\\hello-1.i64"
+"1"="C:\\users\\erolm_a\\Documenti\\CTF\\w3challs\\knoob\\knoob\\kmod.i64"
+
+[Software\\Hex-Rays\\IDA\\Main Windows\\Main window] 1529258070
+#time=1d406643de58f6c
+"Geom"=hex:01,d9,d0,cb,00,02,00,00,ff,ff,ff,fc,00,00,00,37,00,00,05,59,00,00,\
+  03,03,00,00,00,00,00,00,00,4e,00,00,05,55,00,00,02,ff,00,00,00,00,00,00,00,\
+  00,05,56
+"Maximized"=dword:00000001
+
+[Software\\Hex-Rays\\IDA\\SyntaxFormat_1] 1528062825
+#time=1d3fb8558899582
+"Bold"=dword:00000000
+"Color"=dword:00ff0000
+"Italic"=dword:00000000
+
+[Software\\Hex-Rays\\IDA\\SyntaxFormat_2] 1528062825
+#time=1d3fb855889a1ee
+"Bold"=dword:00000000
+"Color"=dword:00800080
+"Italic"=dword:00000000
+
+[Software\\Hex-Rays\\IDA\\SyntaxFormat_3] 1528062825
+#time=1d3fb855889aed2
+"Bold"=dword:00000000
+"Color"=dword:000000ff
+"Italic"=dword:00000000
+
+[Software\\Hex-Rays\\IDA\\SyntaxFormat_4] 1528062825
+#time=1d3fb855889bb2a
+"Bold"=dword:00000000
+"Color"=dword:0000008b
+"Italic"=dword:00000000
+
+[Software\\Hex-Rays\\IDA\\SyntaxFormat_5] 1528062825
+#time=1d3fb855889c840
+"Bold"=dword:00000000
+"Color"=dword:00006400
+"Italic"=dword:00000001
+
+[Software\\Hex-Rays\\IDA\\SyntaxFormat_6] 1528062825
+#time=1d3fb855889d948
+"Bold"=dword:00000001
+"Color"=dword:00ff0000
+"Italic"=dword:00000000
+
+[Software\\Hex-Rays\\IDA\\SyntaxFormat_7] 1528062825
+#time=1d3fb855889e6fe
+"Bold"=dword:00000001
+"Color"=dword:008b8b00
+"Italic"=dword:00000000
+
+[Software\\Local AppWizard-Generated Applications\\EzH2O\\Settings] 1466072979
+#time=1d1c7b9fceab45a
+
+[Software\\Microsoft\\Installer\\Features\\0298D54E857A88046B6C13BD2B6799E2] 1466063359
+#time=1d1c7a39722176e
+"wine_mono"=""
+
+[Software\\Microsoft\\Installer\\Features\\0A860BE35B24CB647A51DF673503D84C] 1466063409
+#time=1d1c7a3b4b00a98
+"wine_gecko"=""
+
+[Software\\Microsoft\\Installer\\Features\\20038DA37BEE9BE4DBBC5A33EE828162] 1470229816
+#time=1d1ed8860bb47f8
+"wine_gecko"=""
+
+[Software\\Microsoft\\Installer\\Features\\41D87F8FA20047049B2C65EBE5B9A7AD] 1466063386
+#time=1d1c7a3a6f92b00
+"wine_gecko"=""
+
+[Software\\Microsoft\\Installer\\Features\\79BDB9BB742C02F47B01B876566F1750] 1470229855
+#time=1d1ed88781ecc80
+"wine_gecko"=""
+
+[Software\\Microsoft\\Installer\\Features\\C6C656A4A42DF3747974A3D80009A740] 1527977478
+#time=1d3fabea17460dc
+"DefaultFeature"=""
+"Documentation"="DefaultFeature"
+"Extensions"="DefaultFeature"
+"pip_feature"="DefaultFeature"
+"PrependPath"="DefaultFeature"
+"SharedCRT"=""
+"TclTk"="DefaultFeature"
+"Testsuite"="DefaultFeature"
+"Tools"="DefaultFeature"
+
+[Software\\Microsoft\\Installer\\Products\\0298D54E857A88046B6C13BD2B6799E2] 1507740922
+#time=1d342b1ba404736
+"AdvertiseFlags"=dword:00000184
+"Assignment"=dword:00000000
+"AuthorizedLUAApp"=dword:00000000
+"Clients"=":"
+"InstanceType"=dword:00000000
+"Language"=dword:00000000
+"PackageCode"="8231CBD8B4C5E5C4587CBC832FF24EAE"
+"ProductName"="Wine Mono"
+"Version"=dword:04070001
+
+[Software\\Microsoft\\Installer\\Products\\0298D54E857A88046B6C13BD2B6799E2\\SourceList] 1507740922
+#time=1d342b1ba405cb2
+"LastUsedSource"="n;5;C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\WLJ7O140\\"
+"PackageName"="wine-mono-4.7.1[0]"
+
+[Software\\Microsoft\\Installer\\Products\\0298D54E857A88046B6C13BD2B6799E2\\SourceList\\Media] 1466063359
+#time=1d1c7a39722727c
+"1"=";"
+"DiskPrompt"=""
+"MediaPackage"=""
+
+[Software\\Microsoft\\Installer\\Products\\0298D54E857A88046B6C13BD2B6799E2\\SourceList\\Net] 1507740922
+#time=1d342b1ba4050dc
+"1"=str(2):"C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\0TWKRL0L\\"
+"2"=str(2):"C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\WLJ7O140\\"
+"3"=str(2):"C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\WLJ7O140\\"
+"4"=str(2):"C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\WLJ7O140\\"
+"5"=str(2):"C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\WLJ7O140\\"
+
+[Software\\Microsoft\\Installer\\Products\\0A860BE35B24CB647A51DF673503D84C] 1466063409
+#time=1d1c7a3b4b01650
+"AdvertiseFlags"=dword:00000184
+"Assignment"=dword:00000000
+"AuthorizedLUAApp"=dword:00000000
+"Clients"=":"
+"InstanceType"=dword:00000000
+"Language"=dword:00000000
+"PackageCode"="97B82D3EB3EB6B94791820F1DA58F645"
+"ProductName"="Wine Gecko (32-bit)"
+"Version"=dword:022c0000
+
+[Software\\Microsoft\\Installer\\Products\\0A860BE35B24CB647A51DF673503D84C\\SourceList] 1466063409
+#time=1d1c7a3b4b02212
+"LastUsedSource"="n;1;C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\O5RHHYDT\\"
+"PackageName"="wine_gecko-2.44-x86[0]"
+
+[Software\\Microsoft\\Installer\\Products\\0A860BE35B24CB647A51DF673503D84C\\SourceList\\Media] 1466063409
+#time=1d1c7a3b4b0238e
+"1"=";"
+"DiskPrompt"=""
+"MediaPackage"=""
+
+[Software\\Microsoft\\Installer\\Products\\0A860BE35B24CB647A51DF673503D84C\\SourceList\\Net] 1466063409
+#time=1d1c7a3b4b01cf4
+"1"=str(2):"C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\O5RHHYDT\\"
+
+[Software\\Microsoft\\Installer\\Products\\20038DA37BEE9BE4DBBC5A33EE828162] 1470229816
+#time=1d1ed8860bb52c0
+"AdvertiseFlags"=dword:00000184
+"Assignment"=dword:00000000
+"AuthorizedLUAApp"=dword:00000000
+"Clients"=":"
+"InstanceType"=dword:00000000
+"Language"=dword:00000000
+"PackageCode"="97B82D3EB3EB6B94791820F1DA58F645"
+"ProductName"="Wine Gecko (64-bit)"
+"Version"=dword:022f0000
+
+[Software\\Microsoft\\Installer\\Products\\20038DA37BEE9BE4DBBC5A33EE828162\\SourceList] 1470229816
+#time=1d1ed8860bb5d74
+"LastUsedSource"="n;1;C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\WLJ7O140\\"
+"PackageName"="wine_gecko-2.47-x86_64[0]"
+
+[Software\\Microsoft\\Installer\\Products\\20038DA37BEE9BE4DBBC5A33EE828162\\SourceList\\Media] 1470229816
+#time=1d1ed8860bb5ed2
+"1"=";"
+"DiskPrompt"=""
+"MediaPackage"=""
+
+[Software\\Microsoft\\Installer\\Products\\20038DA37BEE9BE4DBBC5A33EE828162\\SourceList\\Net] 1470229816
+#time=1d1ed8860bb58ec
+"1"=str(2):"C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\WLJ7O140\\"
+
+[Software\\Microsoft\\Installer\\Products\\41D87F8FA20047049B2C65EBE5B9A7AD] 1466063386
+#time=1d1c7a3a6f97934
+"AdvertiseFlags"=dword:00000184
+"Assignment"=dword:00000000
+"AuthorizedLUAApp"=dword:00000000
+"Clients"=":"
+"InstanceType"=dword:00000000
+"Language"=dword:00000000
+"PackageCode"="97B82D3EB3EB6B94791820F1DA58F645"
+"ProductName"="Wine Gecko (64-bit)"
+"Version"=dword:022c0000
+
+[Software\\Microsoft\\Installer\\Products\\41D87F8FA20047049B2C65EBE5B9A7AD\\SourceList] 1466063386
+#time=1d1c7a3a6f987b2
+"LastUsedSource"="n;1;C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\0TWKRL0L\\"
+"PackageName"="wine_gecko-2.44-x86_64[0]"
+
+[Software\\Microsoft\\Installer\\Products\\41D87F8FA20047049B2C65EBE5B9A7AD\\SourceList\\Media] 1466063386
+#time=1d1c7a3a6f9897e
+"1"=";"
+"DiskPrompt"=""
+"MediaPackage"=""
+
+[Software\\Microsoft\\Installer\\Products\\41D87F8FA20047049B2C65EBE5B9A7AD\\SourceList\\Net] 1466063386
+#time=1d1c7a3a6f981a4
+"1"=str(2):"C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\0TWKRL0L\\"
+
+[Software\\Microsoft\\Installer\\Products\\79BDB9BB742C02F47B01B876566F1750] 1470229855
+#time=1d1ed88781edc7a
+"AdvertiseFlags"=dword:00000184
+"Assignment"=dword:00000000
+"AuthorizedLUAApp"=dword:00000000
+"Clients"=":"
+"InstanceType"=dword:00000000
+"Language"=dword:00000000
+"PackageCode"="97B82D3EB3EB6B94791820F1DA58F645"
+"ProductName"="Wine Gecko (32-bit)"
+"Version"=dword:022f0000
+
+[Software\\Microsoft\\Installer\\Products\\79BDB9BB742C02F47B01B876566F1750\\SourceList] 1470229855
+#time=1d1ed88781eeba2
+"LastUsedSource"="n;1;C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\WLJ7O140\\"
+"PackageName"="wine_gecko-2.47-x86[0]"
+
+[Software\\Microsoft\\Installer\\Products\\79BDB9BB742C02F47B01B876566F1750\\SourceList\\Media] 1470229855
+#time=1d1ed88781eed96
+"1"=";"
+"DiskPrompt"=""
+"MediaPackage"=""
+
+[Software\\Microsoft\\Installer\\Products\\79BDB9BB742C02F47B01B876566F1750\\SourceList\\Net] 1470229855
+#time=1d1ed88781ee53a
+"1"=str(2):"C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files\\Content.IE5\\WLJ7O140\\"
+
+[Software\\Microsoft\\Installer\\Products\\C6C656A4A42DF3747974A3D80009A740] 1527977478
+#time=1d3fabea1759c90
+"AdvertiseFlags"=dword:00000184
+"Assignment"=dword:00000000
+"AuthorizedLUAApp"=dword:00000000
+"Clients"=":"
+"InstanceType"=dword:00000000
+"Language"=dword:00000409
+"PackageCode"="144DDFDD18BF80F4481D7DD5FD7DB58D"
+"ProductName"="Python 2.7.13 (64-bit)"
+"Version"=dword:0207335e
+
+[Software\\Microsoft\\Installer\\Products\\C6C656A4A42DF3747974A3D80009A740\\SourceList] 1527977478
+#time=1d3fabea175cf3a
+"LastUsedSource"="n;1;C:\\users\\erolm_a\\Temp\\is-M5V0B.tmp\\"
+"PackageName"="python-2.7.13.amd64.msi"
+
+[Software\\Microsoft\\Installer\\Products\\C6C656A4A42DF3747974A3D80009A740\\SourceList\\Media] 1527977478
+#time=1d3fabea175da48
+"1"=";"
+"3197"=";"
+"3207"=";"
+"DiskPrompt"=""
+"MediaPackage"=""
+
+[Software\\Microsoft\\Installer\\Products\\C6C656A4A42DF3747974A3D80009A740\\SourceList\\Net] 1527977478
+#time=1d3fabea175ac94
+"1"=str(2):"C:\\users\\erolm_a\\Temp\\is-M5V0B.tmp\\"
+
+[Software\\Microsoft\\Installer\\UpgradeCodes\\906426ED5B6CA6842947FEB058F4B65C] 1466063359
+#time=1d1c7a397223e4c
+"0298D54E857A88046B6C13BD2B6799E2"=""
+
+[Software\\Microsoft\\Installer\\UpgradeCodes\\ADF909AA16ED9784E920D37B806499E7] 1470229855
+#time=1d1ed88781ed2ca
+"0A860BE35B24CB647A51DF673503D84C"=""
+"20038DA37BEE9BE4DBBC5A33EE828162"=""
+"41D87F8FA20047049B2C65EBE5B9A7AD"=""
+"79BDB9BB742C02F47B01B876566F1750"=""
+
+[Software\\Microsoft\\Installer\\UpgradeCodes\\C0A569A66EE6A3E4993823365F3611CE] 1527977478
+#time=1d3fabea17577b0
+"C6C656A4A42DF3747974A3D80009A740"=""
+
+[Software\\Microsoft\\Internet Explorer\\Main] 1466063387
+#time=1d1c7a3a7c4b84c
+"Search Page"="http://www.google.com"
+"Start Page"="http://www.winehq.org"
+
+[Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl] 1466063331
+#time=1d1c7a386167a78
+
+[Software\\Microsoft\\Internet Explorer\\Settings] 1466063387
+#time=1d1c7a3a7c4b964
+"Text Color"="0,0,0"
+
+[Software\\Microsoft\\Notepad] 1511596481
+#time=1d365c2a6bfd346
+"fWrap"=dword:00000001
+"iMarginBottom"=dword:000009c4
+"iMarginLeft"=dword:000007d0
+"iMarginRight"=dword:000007d0
+"iMarginTop"=dword:000009c4
+"iPointSize"=dword:0000005a
+"iWindowPosDX"=dword:0000055a
+"iWindowPosDY"=dword:000002e0
+"iWindowPosX"=dword:fffffffe
+"iWindowPosY"=dword:00000002
+"lfCharSet"=dword:00000001
+"lfClipPrecision"=dword:00000000
+"lfEscapement"=dword:00000000
+"lfFaceName"="System"
+"lfItalic"=dword:00000000
+"lfOrientation"=dword:00000000
+"lfOutPrecision"=dword:00000000
+"lfPitchAndFamily"=dword:00000001
+"lfQuality"=dword:00000000
+"lfStrikeOut"=dword:00000000
+"lfUnderline"=dword:00000000
+"lfWeight"=dword:00000190
+"szHeader"="&f"
+"szTrailer"="Pagina &p"
+
+[Software\\Microsoft\\Protected Storage System Provider] 1466063387
+#time=1d1c7a3a7c7cdca
+
+[Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1506956118
+#time=1d33b8e7668cd5a
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CRLs] 1506956118
+#time=1d33b8e7668ce68
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1506956118
+#time=1d33b8e7668cf1c
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\Certificates] 1511595802
+#time=1d365c1118b9e28
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CRLs] 1511595802
+#time=1d365c1118b9f4a
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CTLs] 1511595802
+#time=1d365c1118ba058
+
+[Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1506956118
+#time=1d33b8e7668d48a
+
+[Software\\Microsoft\\SystemCertificates\\My\\CRLs] 1506956118
+#time=1d33b8e7668d552
+
+[Software\\Microsoft\\SystemCertificates\\My\\CTLs] 1506956118
+#time=1d33b8e7668d62e
+
+[Software\\Microsoft\\SystemCertificates\\ROOT\\Certificates] 1506956118
+#time=1d33b8e766439ac
+
+[Software\\Microsoft\\SystemCertificates\\ROOT\\CRLs] 1506956118
+#time=1d33b8e76643aa6
+
+[Software\\Microsoft\\SystemCertificates\\ROOT\\CTLs] 1506956118
+#time=1d33b8e76643b96
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1506956118
+#time=1d33b8e7668dbce
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CRLs] 1506956118
+#time=1d33b8e7668dca0
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1506956118
+#time=1d33b8e7668dd9a
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Applets\\Wordpad\\Options] 1487795114
+#time=1d28d49c685c55c
+"FrameRect"=hex:00,00,00,00,06,00,00,00,58,02,00,00,32,01,00,00
+"Maximized"=dword:00000001
+"PageMargin"=hex:dd,06,00,00,89,05,00,00,dd,06,00,00,89,05,00,00
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Applets\\Wordpad\\Recent file list] 1487795106
+#time=1d28d49c12b1256
+"File1"="Z:\\tmp\\mozilla_erolm_a0\\assocul.rtf"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Applets\\Wordpad\\RTF] 1487795114
+#time=1d28d49c685c778
+"BarState0"=dword:0000000f
+"Wrap"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Applets\\Wordpad\\Settings] 1487795114
+#time=1d28d49c685c64c
+"PreviewPages"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Applets\\Wordpad\\Text] 1487795114
+#time=1d28d49c685c908
+"BarState0"=dword:0000000f
+"Wrap"=dword:00000000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced] 1466063553
+#time=1d1c7a40ac0da48
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\ComDlg32\\LastVisitedMRU] 1529349326
+#time=1d40738b67f6176
+"a"=hex:45,00,7a,00,48,00,32,00,4f,00,2e,00,65,00,78,00,65,00,00,00,5a,00,3a,\
+  00,5c,00,68,00,6f,00,6d,00,65,00,5c,00,65,00,72,00,6f,00,6c,00,6d,00,5f,00,\
+  61,00,5c,00,53,00,63,00,61,00,72,00,69,00,63,00,61,00,74,00,69,00,5c,00,45,\
+  00,7a,00,48,00,32,00,4f,00,00,00
+"b"=hex:77,00,69,00,6e,00,68,00,65,00,78,00,2e,00,65,00,78,00,65,00,00,00,5a,\
+  00,3a,00,5c,00,68,00,6f,00,6d,00,65,00,5c,00,65,00,72,00,6f,00,6c,00,6d,00,\
+  5f,00,61,00,5c,00,53,00,63,00,61,00,72,00,69,00,63,00,61,00,74,00,69,00,5c,\
+  00,45,00,7a,00,48,00,32,00,4f,00,00,00
+"c"=hex:63,00,6f,00,64,00,65,00,62,00,6c,00,6f,00,63,00,6b,00,73,00,2e,00,65,\
+  00,78,00,65,00,00,00,43,00,3a,00,5c,00,75,00,73,00,65,00,72,00,73,00,5c,00,\
+  65,00,72,00,6f,00,6c,00,6d,00,5f,00,61,00,5c,00,44,00,6f,00,63,00,75,00,6d,\
+  00,65,00,6e,00,74,00,69,00,5c,00,74,00,65,00,73,00,74,00,32,00,00,00
+"d"=hex:53,00,74,00,61,00,72,00,55,00,4d,00,4c,00,2e,00,65,00,78,00,65,00,00,\
+  00,5a,00,3a,00,5c,00,68,00,6f,00,6d,00,65,00,5c,00,65,00,72,00,6f,00,6c,00,\
+  6d,00,5f,00,61,00,00,00
+"e"=hex:43,00,72,00,79,00,70,00,54,00,6f,00,6f,00,6c,00,2e,00,65,00,78,00,65,\
+  00,00,00,43,00,3a,00,5c,00,75,00,73,00,65,00,72,00,73,00,5c,00,65,00,72,00,\
+  6f,00,6c,00,6d,00,5f,00,61,00,5c,00,44,00,6f,00,63,00,75,00,6d,00,65,00,6e,\
+  00,74,00,69,00,5c,00,43,00,54,00,46,00,5c,00,48,00,61,00,63,00,6b,00,69,00,\
+  6e,00,67,00,4c,00,61,00,62,00,5c,00,35,00,30,00,36,00,39,00,00,00
+"f"=hex:52,00,65,00,73,00,6f,00,75,00,72,00,63,00,65,00,48,00,61,00,63,00,6b,\
+  00,65,00,72,00,2e,00,65,00,78,00,65,00,00,00,5a,00,3a,00,5c,00,68,00,6f,00,\
+  6d,00,65,00,5c,00,65,00,72,00,6f,00,6c,00,6d,00,5f,00,61,00,5c,00,44,00,6f,\
+  00,63,00,75,00,6d,00,65,00,6e,00,74,00,69,00,5c,00,43,00,54,00,46,00,5c,00,\
+  77,00,33,00,63,00,68,00,61,00,6c,00,6c,00,73,00,5c,00,63,00,68,00,61,00,6c,\
+  00,6c,00,65,00,6e,00,67,00,65,00,33,00,37,00,5c,00,63,00,72,00,61,00,63,00,\
+  6b,00,6d,00,65,00,00,00
+"g"=hex:69,00,64,00,61,00,36,00,34,00,2e,00,65,00,78,00,65,00,00,00,43,00,3a,\
+  00,5c,00,75,00,73,00,65,00,72,00,73,00,5c,00,65,00,72,00,6f,00,6c,00,6d,00,\
+  5f,00,61,00,5c,00,44,00,6f,00,63,00,75,00,6d,00,65,00,6e,00,74,00,69,00,5c,\
+  00,43,00,54,00,46,00,5c,00,72,00,6f,00,6f,00,74,00,2d,00,6d,00,65,00,5c,00,\
+  65,00,6c,00,66,00,2d,00,61,00,6e,00,74,00,69,00,64,00,65,00,62,00,75,00,67,\
+  00,00,00
+"h"=hex:77,00,69,00,6e,00,65,00,63,00,66,00,67,00,2e,00,65,00,78,00,65,00,00,\
+  00,5a,00,3a,00,5c,00,68,00,6f,00,6d,00,65,00,5c,00,65,00,72,00,6f,00,6c,00,\
+  6d,00,5f,00,61,00,5c,00,44,00,6f,00,63,00,75,00,6d,00,65,00,6e,00,74,00,69,\
+  00,5c,00,64,00,65,00,63,00,6f,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,\
+  77,00,69,00,6e,00,65,00,5c,00,58,00,50,00,42,00,6c,00,61,00,63,00,6b,00,5c,\
+  00,58,00,50,00,42,00,6c,00,61,00,63,00,6b,00,00,00
+"i"=hex:69,00,64,00,61,00,2e,00,65,00,78,00,65,00,00,00,43,00,3a,00,5c,00,50,\
+  00,72,00,6f,00,67,00,72,00,61,00,6d,00,20,00,46,00,69,00,6c,00,65,00,73,00,\
+  5c,00,49,00,44,00,41,00,20,00,37,00,2e,00,30,00,00,00
+"MRUList"="ighfedcba"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\RecentDocs] 1491170793
+#time=1d2abfd63b9e1e2
+"a"=hex:46,61,73,65,2e,64,70,6c,00,19,00,30,00,00,00,00,00,00,00,00,00,00,00,\
+  46,61,73,65,2e,64,70,6c,2e,6c,6e,6b,00,00,00,00
+"MRUList"="a"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\RunMRU] 1525894552
+#time=1d3e7ccf0f8ec04
+"MRUList"=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1466063331
+#time=1d1c7a386319c7c
+"Administrative Tools"="C:\\users\\erolm_a\\Start Menu\\Programs\\Administrative Tools"
+"AppData"="C:\\users\\erolm_a\\Application Data"
+"Cache"="C:\\users\\erolm_a\\Local Settings\\Temporary Internet Files"
+"Cookies"="C:\\users\\erolm_a\\Cookies"
+"Desktop"="C:\\users\\erolm_a\\Scrivania"
+"Favorites"="C:\\users\\erolm_a\\Favorites"
+"Fonts"="C:\\windows\\Fonts"
+"History"="C:\\users\\erolm_a\\Local Settings\\History"
+"Local AppData"="C:\\users\\erolm_a\\Local Settings\\Application Data"
+"My Music"="C:\\users\\erolm_a\\Musica"
+"My Pictures"="C:\\users\\erolm_a\\Immagini"
+"My Videos"="C:\\users\\erolm_a\\Video"
+"NetHood"="C:\\users\\erolm_a\\NetHood"
+"Personal"="C:\\users\\erolm_a\\Documenti"
+"PrintHood"="C:\\users\\erolm_a\\PrintHood"
+"Programs"="C:\\users\\erolm_a\\Start Menu\\Programs"
+"Recent"="C:\\users\\erolm_a\\Recent"
+"SendTo"="C:\\users\\erolm_a\\SendTo"
+"Start Menu"="C:\\users\\erolm_a\\Start Menu"
+"StartUp"="C:\\users\\erolm_a\\Start Menu\\Programs\\StartUp"
+"Templates"="C:\\users\\erolm_a\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"="C:\\users\\erolm_a\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"="C:\\users\\erolm_a\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"="C:\\users\\erolm_a\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"="C:\\users\\erolm_a\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"="C:\\users\\erolm_a\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"="C:\\users\\erolm_a\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1466063331
+#time=1d1c7a386319b1e
+"Administrative Tools"=str(2):"%USERPROFILE%\\Start Menu\\Programs\\Administrative Tools"
+"AppData"=str(2):"%USERPROFILE%\\Application Data"
+"Cache"=str(2):"%USERPROFILE%\\Local Settings\\Temporary Internet Files"
+"Cookies"=str(2):"%USERPROFILE%\\Cookies"
+"Desktop"=str(2):"%USERPROFILE%\\Scrivania"
+"Favorites"=str(2):"%USERPROFILE%\\Favorites"
+"Fonts"=str(2):"C:\\windows\\Fonts"
+"History"=str(2):"%USERPROFILE%\\Local Settings\\History"
+"Local AppData"=str(2):"%USERPROFILE%\\Local Settings\\Application Data"
+"My Music"=str(2):"%USERPROFILE%\\Musica"
+"My Pictures"=str(2):"%USERPROFILE%\\Immagini"
+"My Videos"=str(2):"%USERPROFILE%\\Video"
+"NetHood"=str(2):"%USERPROFILE%\\NetHood"
+"Personal"=str(2):"%USERPROFILE%\\Documenti"
+"PrintHood"=str(2):"%USERPROFILE%\\PrintHood"
+"Programs"=str(2):"%USERPROFILE%\\Start Menu\\Programs"
+"Recent"=str(2):"%USERPROFILE%\\Recent"
+"SendTo"=str(2):"%USERPROFILE%\\SendTo"
+"Start Menu"=str(2):"%USERPROFILE%\\Start Menu"
+"StartUp"=str(2):"%USERPROFILE%\\Start Menu\\Programs\\StartUp"
+"Templates"=str(2):"%USERPROFILE%\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"=str(2):"%USERPROFILE%\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"=str(2):"%USERPROFILE%\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"=str(2):"%USERPROFILE%\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"=str(2):"%USERPROFILE%\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"=str(2):"%USERPROFILE%\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"=str(2):"%USERPROFILE%\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1466063387
+#time=1d1c7a3a7b37d84
+"ProxyEnable"=dword:00000000
+"User Agent"="Mozilla/4.0 (compatible; MSIE 8.0; Win32)"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap] 1466063387
+#time=1d1c7a3a7b37ba4
+@=""
+"IntranetName"=dword:00000001
+"ProxyByPass"=dword:00000001
+"UNCAsIntranet"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains] 1466063387
+#time=1d1c7a3a7b37a3c
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\ProtocolDefaults] 1466063387
+#time=1d1c7a3a7b3787a
+@=""
+"@ivt"=dword:00000001
+"file"=dword:00000003
+"ftp"=dword:00000003
+"http"=dword:00000003
+"https"=dword:00000003
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges] 1466063387
+#time=1d1c7a3a7b37c08
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones] 1466063387
+#time=1d1c7a3a7b56e8c
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0] 1466063387
+#time=1d1c7a3a7b3d220
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000000
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00000000
+"Description"="Your computer"
+"DisplayName"="My Computer"
+"Flags"=dword:00000021
+"Icon"="explorer.exe#0100"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1] 1466063387
+#time=1d1c7a3a7b42f90
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000001
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000000
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00010500
+"Description"="This zone contains all Web sites that are on your organization's intranet."
+"DisplayName"="Local intranet"
+"Flags"=dword:000000db
+"Icon"="shell32.dll#0018"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010500
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2] 1466063387
+#time=1d1c7a3a7b4e322
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000001
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00030000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00010000
+"Description"="This zone contains Web sites that you trust not to damage your computer or data."
+"DisplayName"="Trusted sites"
+"Flags"=dword:00000047
+"Icon"="inetcpl.cpl#00004480"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3] 1466063387
+#time=1d1c7a3a7b56c20
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000003
+"1407"=dword:00000000
+"1601"=dword:00000001
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000001
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000003
+"1A05"=dword:00000001
+"1A06"=dword:00000000
+"1A10"=dword:00000001
+"1C00"=dword:00010000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00011000
+"Description"="This zone contains all Web sites you haven't placed in other zones"
+"DisplayName"="Internet"
+"Flags"=dword:00000001
+"Icon"="inetcpl.cpl#001313"
+"MinLevel"=dword:00011000
+"RecommendedLevel"=dword:00011000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4] 1466063387
+#time=1d1c7a3a7b5e772
+@=""
+"1001"=dword:00000003
+"1004"=dword:00000003
+"1200"=dword:00000003
+"1201"=dword:00000003
+"1400"=dword:00000003
+"1402"=dword:00000003
+"1405"=dword:00000003
+"1406"=dword:00000003
+"1407"=dword:00000003
+"1601"=dword:00000001
+"1604"=dword:00000001
+"1605"=dword:00000000
+"1606"=dword:00000003
+"1607"=dword:00000003
+"1608"=dword:00000003
+"1609"=dword:00000001
+"1800"=dword:00000003
+"1802"=dword:00000001
+"1803"=dword:00000003
+"1804"=dword:00000003
+"1805"=dword:00000001
+"1A00"=dword:00010000
+"1A02"=dword:00000003
+"1A03"=dword:00000003
+"1A04"=dword:00000003
+"1A05"=dword:00000003
+"1A06"=dword:00000003
+"1A10"=dword:00000003
+"1C00"=dword:00000000
+"1E05"=dword:00010000
+"CurrentLevel"=dword:00012000
+"Description"="This zone contains Web sites that could potentially damage your computer or data."
+"DisplayName"="Restricted sites"
+"Flags"=dword:00000003
+"Icon"="inetcpl.cpl#00004481"
+"MinLevel"=dword:00012000
+"RecommendedLevel"=dword:00012000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1466063387
+#time=1d1c7a3a7c6e6d0
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager] 1529611927
+#time=1d4099c2124f896
+"FlatMenu"=dword:00000000
+"GradientCaption"=dword:00000001
+"IconTitleFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"NonClientMetrics"=hex:f8,01,00,00,01,00,00,00,10,00,00,00,10,00,00,00,12,00,\
+  00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,\
+  00,00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,0f,00,\
+  00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,12,00,\
+  00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,\
+  ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,\
+  22,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,6c,00,20,00,44,00,6c,00,67,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,\
+  00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,22,54,00,61,00,68,00,6f,\
+  00,6d,00,61,00,00,00,6c,00,20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00
+"ThemeActive"="0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\ThemeManager\\Control Panel\\Colors] 1527977992
+#time=1d3fabfd3b82a28
+"ActiveBorder"="212 208 200"
+"ActiveTitle"="10 36 106"
+"AppWorkSpace"="128 128 128"
+"Background"="58 110 165"
+"ButtonAlternateFace"="181 181 181"
+"ButtonDkShadow"="64 64 64"
+"ButtonFace"="212 208 200"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="212 208 200"
+"ButtonShadow"="128 128 128"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="166 202 240"
+"GradientInactiveTitle"="192 192 192"
+"GrayText"="128 128 128"
+"Hilight"="10 36 106"
+"HilightText"="255 255 255"
+"HotTrackingColor"="0 0 200"
+"InactiveBorder"="212 208 200"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="212 208 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 225"
+"Menu"="212 208 200"
+"MenuBar"="212 208 200"
+"MenuHilight"="10 36 106"
+"MenuText"="0 0 0"
+"Scrollbar"="212 208 200"
+"TitleText"="255 255 255"
+"Window"="255 255 255"
+"WindowFrame"="0 0 0"
+"WindowText"="0 0 0"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\CodeBlocks] 1506955605
+#time=1d33b8d44f6784a
+"DisplayIcon"="C:\\Program Files (x86)\\CodeBlocks\\uninstall.exe"
+"DisplayName"="CodeBlocks"
+"DisplayVersion"="16.01"
+"NoModify"=dword:00000001
+"NoRepair"=dword:00000001
+"Publisher"="The Code::Blocks Team"
+"UninstallString"="C:\\Program Files (x86)\\CodeBlocks\\uninstall.exe"
+"URLInfoAbout"="http://www.codeblocks.org"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Wintrust\\Trust Providers\\Software Publishing] 1511595801
+#time=1d365c1111b8c0a
+"State"=dword:00023c00
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Devices] 1529612045
+#time=1d4099c6739a048
+"EPSON_EPSON_XP-432_435_Series"="wineps.drv,CUPS:EPSON_EPSON_XP-432_435_Series"
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\PrinterPorts] 1529612045
+#time=1d4099c6739a23c
+"EPSON_EPSON_XP-432_435_Series"="wineps.drv,CUPS:EPSON_EPSON_XP-432_435_Series,15,45"
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows] 1529612045
+#time=1d4099c673959f8
+"device"="EPSON_EPSON_XP-432_435_Series,wineps.drv,CUPS:EPSON_EPSON_XP-432_435_Series"
+
+[Software\\Microsoft\\WinMine] 1510847604
+#time=1d35ef308e187ee
+"Difficulty"=dword:00000002
+"Height"=dword:00000010
+"Mark"=dword:00000001
+"Mines"=dword:00000063
+"Name1"="Nessuno"
+"Name2"="Nessuno"
+"Name3"="Nessuno"
+"Time1"=dword:000003e7
+"Time2"=dword:000003e7
+"Time3"=dword:000003e7
+"Width"=dword:0000001e
+"Xpos"=dword:000001c4
+"Ypos"=dword:00000123
+
+[Software\\QtProject\\OrganizationDefaults\\FileDialog] 1529349363
+#time=1d40738cce80fc6
+"history"=str(7):""
+"lastVisited"="file:///C:/Program Files/IDA 7.0"
+"qtVersion"="5.6.0"
+"viewMode"="Detail"
+
+[Software\\QtProject\\OrganizationDefaults\\Qt\\customColors] 1528062819
+#time=1d3fb8554be0e56
+"0"=dword:ffffffff
+"1"=dword:ffffffff
+"10"=dword:ffffffff
+"11"=dword:ffffffff
+"12"=dword:ffffffff
+"13"=dword:ffffffff
+"14"=dword:ffffffff
+"15"=dword:ffffffff
+"2"=dword:ffffffff
+"3"=dword:ffffffff
+"4"=dword:ffffffff
+"5"=dword:ffffffff
+"6"=dword:ffffffff
+"7"=dword:ffffffff
+"8"=dword:ffffffff
+"9"=dword:ffffffff
+
+[Software\\StarUML] 1507807824
+#time=1d3434d7f232d0c
+"installed"=dword:00000001
+
+[Software\\StarUML\\Window Position] 1507807824
+#time=1d3434d7f23361c
+"Height"=dword:000002e3
+"Left"=dword:fffffffc
+"Restore Bottom"=dword:00000228
+"Restore Left"=dword:00000000
+"Restore Right"=dword:00000400
+"Restore Top"=dword:00000000
+"Show State"=dword:00000003
+"Top"=dword:00000001
+"Width"=dword:0000055e
+
+[Software\\Sysinternals\\Process Explorer] 1525894579
+#time=1d3e7cd01240df2
+"AlwaysOntop"=dword:00000000
+"ColorDelProc"=dword:000000ff
+"ColorJobs"=dword:00006cd0
+"ColorNet"=dword:0000ffff
+"ColorNewProc"=dword:0000ff00
+"ColorOwn"=dword:00ffd0d0
+"ColorPacked"=dword:00d418d2
+"ColorRelocatedDlls"=dword:0000ffff
+"ColorServices"=dword:00d0d0ff
+"ConfirmKill"=dword:00000001
+"DbgHelpPath"="C:\\windows\\system32\\dbghelp.dll"
+"DefaultDllPropPage"=dword:00000000
+"DefaultProcPropPage"=dword:00000006
+"Divider"=hex:00,00,00,00,00,00,f0,3f
+"DllColumnCount"=dword:00000004
+"DllPropWindowplacement"=hex:2c,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,28,00,00,00,28,00,00,00,00,00,00,00,00,\
+  00,00,00
+"DllSortColumn"=dword:00000000
+"DllSortDirection"=dword:00000001
+"EulaAccepted"=dword:00000001
+"FindWindowplacement"=hex:2c,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,96,00,00,00,96,00,00,00,00,00,00,00,00,00,\
+  00,00
+"Font"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,\
+  00,00,00,00,00,22,4d,53,20,53,68,65,6c,6c,20,44,6c,67,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00
+"HandleColumnCount"=dword:00000002
+"HandleSortColumn"=dword:00000000
+"HandleSortDirection"=dword:00000001
+"HideWhenMinimized"=dword:00000000
+"HighlightDelProc"=dword:00000001
+"HighlightDuration"=dword:000003e8
+"HighlightJobs"=dword:00000001
+"HighlightNetProcess"=dword:00000001
+"HighlightNewProc"=dword:00000001
+"HighlightOwnProcesses"=dword:00000001
+"HighlightPacked"=dword:00000001
+"HighlightRelocatedDlls"=dword:00000000
+"HighlightServices"=dword:00000001
+"NumColumnSets"=dword:00000000
+"OneInstance"=dword:00000000
+"Opacity"=dword:00000064
+"OriginalPath"="Z:\\home\\erolm_a\\Documenti\\CTF\\w3challs\\challenge37\\crackme\\ProcessExplorer\\procexp.exe"
+"Path"="Z:\\home\\erolm_a\\Documenti\\CTF\\w3challs\\challenge37\\crackme\\ProcessExplorer(1)\\procexp.exe"
+"PrcessColumnCount"=dword:00000005
+"ProcessImageColumnWidth"=dword:000000c8
+"ProcessSortColumn"=dword:ffffffff
+"ProcessSortDirection"=dword:00000001
+"PropWindowplacement"=hex:2c,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,28,00,00,00,28,00,00,00,00,00,00,00,00,00,\
+  00,00
+"RefreshRate"=dword:000003e8
+"SavedDivider"=hex:00,00,00,00,00,00,e0,3f
+"ShowAllCpus"=dword:00000000
+"ShowAllUsers"=dword:00000001
+"ShowCpuFractions"=dword:00000001
+"ShowDllView"=dword:00000000
+"ShowIoTray"=dword:00000000
+"ShowLowerpane"=dword:00000000
+"ShowNewProcesses"=dword:00000000
+"ShowProcessTree"=dword:00000001
+"ShowUnnamedHandles"=dword:00000000
+"StatusBarColumns"=dword:00000015
+"SymbolPath"=hex(1):
+"SymbolWarningShown"=dword:00000001
+"SysinfoWindowplacement"=hex:2c,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,28,00,00,00,28,00,00,00,00,00,00,00,00,\
+  00,00,00
+"ToolbarBands"=hex:10,01,00,00,00,00,00,00,00,00,00,00,64,00,00,00,01,00,00,00,\
+  00,00,00,00,64,00,00,00,02,00,00,00,00,00,00,00,64,00,00,00,03,00,00,00,00,\
+  00,00,00
+"TrayCPUHistory"=dword:00000001
+"UseGoogle"=dword:00000000
+"VerifySignatures"=dword:00000000
+"Windowplacement"=hex:2c,00,00,00,00,00,00,00,01,00,00,00,ff,ff,ff,ff,ff,ff,ff,\
+  ff,00,00,00,00,00,00,00,00,fc,ff,ff,ff,1d,00,00,00,5a,05,00,00,e6,02,00,00
+
+[Software\\Sysinternals\\Process Explorer\\DllColumnMap] 1525894579
+#time=1d3e7cd0123baf0
+"0"=dword:0000001a
+"1"=dword:0000002a
+"2"=dword:00000409
+"3"=dword:00000019
+
+[Software\\Sysinternals\\Process Explorer\\DllColumns] 1525894579
+#time=1d3e7cd01233206
+"0"=dword:0000006e
+"1"=dword:000000b4
+"2"=dword:0000008c
+"3"=dword:00000064
+
+[Software\\Sysinternals\\Process Explorer\\HandleColumnMap] 1525894579
+#time=1d3e7cd0123deb8
+"0"=dword:00000015
+"1"=dword:00000016
+
+[Software\\Sysinternals\\Process Explorer\\HandleColumns] 1525894579
+#time=1d3e7cd012308bc
+"0"=dword:00000064
+"1"=dword:000001c2
+
+[Software\\Sysinternals\\Process Explorer\\ProcessColumnMap] 1525894579
+#time=1d3e7cd0123630c
+"0"=dword:00000003
+"1"=dword:00000004
+"2"=dword:0000041f
+"3"=dword:00000026
+"4"=dword:00000409
+
+[Software\\Sysinternals\\Process Explorer\\ProcessColumns] 1525894579
+#time=1d3e7cd01228f4a
+"0"=dword:000000c8
+"1"=dword:00000028
+"2"=dword:00000028
+"3"=dword:00000096
+"4"=dword:0000008c
+
+[Software\\Sysinternals\\Process Monitor] 1526746413
+#time=1d3ef8c55d1b5a4
+"AdvancedMode"=dword:00000000
+"AlwaysOnTop"=dword:00000000
+"Autoscroll"=dword:00000000
+"BoookmarkFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,\
+  00,00,00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,\
+  20,00,44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"ColumnCount"=dword:00000007
+"ColumnMap"=hex:8e,9c,00,00,75,9c,00,00,76,9c,00,00,77,9c,00,00,87,9c,00,00,78,\
+  9c,00,00,79,9c,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00
+"Columns"=hex:32,00,64,00,28,00,64,00,c8,00,64,00,64,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00
+"DbgHelpPath"="C:\\windows\\system32\\dbghelp.dll"
+"DestructiveFilter"=dword:00000000
+"DeviceNameMap"=""
+"EulaAccepted"=dword:00000001
+"FilterRules"=hex:01,17,00,00,00,75,9c,00,00,00,00,00,00,00,18,00,00,00,50,00,\
+  72,00,6f,00,63,00,6d,00,6f,00,6e,00,2e,00,65,00,78,00,65,00,00,00,00,00,00,\
+  00,00,00,00,00,75,9c,00,00,00,00,00,00,00,18,00,00,00,50,00,72,00,6f,00,63,\
+  00,65,00,78,00,70,00,2e,00,65,00,78,00,65,00,00,00,00,00,00,00,00,00,00,00,\
+  75,9c,00,00,00,00,00,00,00,1a,00,00,00,41,00,75,00,74,00,6f,00,72,00,75,00,\
+  6e,00,73,00,2e,00,65,00,78,00,65,00,00,00,00,00,00,00,00,00,00,00,75,9c,00,\
+  00,00,00,00,00,00,1c,00,00,00,50,00,72,00,6f,00,63,00,6d,00,6f,00,6e,00,36,\
+  00,34,00,2e,00,65,00,78,00,65,00,00,00,00,00,00,00,00,00,00,00,75,9c,00,00,\
+  00,00,00,00,00,1c,00,00,00,50,00,72,00,6f,00,63,00,65,00,78,00,70,00,36,00,\
+  34,00,2e,00,65,00,78,00,65,00,00,00,00,00,00,00,00,00,00,00,75,9c,00,00,00,\
+  00,00,00,00,0e,00,00,00,53,00,79,00,73,00,74,00,65,00,6d,00,00,00,00,00,00,\
+  00,00,00,00,00,77,9c,00,00,04,00,00,00,00,10,00,00,00,49,00,52,00,50,00,5f,\
+  00,4d,00,4a,00,5f,00,00,00,00,00,00,00,00,00,00,00,77,9c,00,00,04,00,00,00,\
+  00,10,00,00,00,46,00,41,00,53,00,54,00,49,00,4f,00,5f,00,00,00,00,00,00,00,\
+  00,00,00,00,78,9c,00,00,04,00,00,00,00,10,00,00,00,46,00,41,00,53,00,54,00,\
+  20,00,49,00,4f,00,00,00,00,00,00,00,00,00,00,00,87,9c,00,00,05,00,00,00,00,\
+  1a,00,00,00,70,00,61,00,67,00,65,00,66,00,69,00,6c,00,65,00,2e,00,73,00,79,\
+  00,73,00,00,00,00,00,00,00,00,00,00,00,87,9c,00,00,05,00,00,00,00,0a,00,00,\
+  00,24,00,4d,00,66,00,74,00,00,00,00,00,00,00,00,00,00,00,87,9c,00,00,05,00,\
+  00,00,00,12,00,00,00,24,00,4d,00,66,00,74,00,4d,00,69,00,72,00,72,00,00,00,\
+  00,00,00,00,00,00,00,00,87,9c,00,00,05,00,00,00,00,12,00,00,00,24,00,4c,00,\
+  6f,00,67,00,46,00,69,00,6c,00,65,00,00,00,00,00,00,00,00,00,00,00,87,9c,00,\
+  00,05,00,00,00,00,10,00,00,00,24,00,56,00,6f,00,6c,00,75,00,6d,00,65,00,00,\
+  00,00,00,00,00,00,00,00,00,87,9c,00,00,05,00,00,00,00,12,00,00,00,24,00,41,\
+  00,74,00,74,00,72,00,44,00,65,00,66,00,00,00,00,00,00,00,00,00,00,00,87,9c,\
+  00,00,05,00,00,00,00,0c,00,00,00,24,00,52,00,6f,00,6f,00,74,00,00,00,00,00,\
+  00,00,00,00,00,00,87,9c,00,00,05,00,00,00,00,10,00,00,00,24,00,42,00,69,00,\
+  74,00,6d,00,61,00,70,00,00,00,00,00,00,00,00,00,00,00,87,9c,00,00,05,00,00,\
+  00,00,0c,00,00,00,24,00,42,00,6f,00,6f,00,74,00,00,00,00,00,00,00,00,00,00,\
+  00,87,9c,00,00,05,00,00,00,00,12,00,00,00,24,00,42,00,61,00,64,00,43,00,6c,\
+  00,75,00,73,00,00,00,00,00,00,00,00,00,00,00,87,9c,00,00,05,00,00,00,00,10,\
+  00,00,00,24,00,53,00,65,00,63,00,75,00,72,00,65,00,00,00,00,00,00,00,00,00,\
+  00,00,87,9c,00,00,05,00,00,00,00,10,00,00,00,24,00,55,00,70,00,43,00,61,00,\
+  73,00,65,00,00,00,00,00,00,00,00,00,00,00,87,9c,00,00,06,00,00,00,00,10,00,\
+  00,00,24,00,45,00,78,00,74,00,65,00,6e,00,64,00,00,00,00,00,00,00,00,00,00,\
+  00,92,9c,00,00,00,00,00,00,00,14,00,00,00,50,00,72,00,6f,00,66,00,69,00,6c,\
+  00,69,00,6e,00,67,00,00,00,00,00,00,00,00,00,00,00
+"HighlightBG"=dword:00ffff80
+"HighlightFG"=dword:00000000
+"HighlightRules"=hex:01,00,00,00,00
+"HistoryDepth"=dword:000000c8
+"Logfile"=hex(1):
+"LogFont"=hex:08,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,00,00,00,00,22,4d,00,53,00,20,00,53,00,68,00,65,00,6c,00,6c,00,20,00,\
+  44,00,6c,00,67,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"MainWindow"=hex:2c,00,00,00,00,00,00,00,01,00,00,00,ff,ff,ff,ff,ff,ff,ff,ff,\
+  ff,ff,ff,ff,ff,ff,ff,ff,fc,ff,ff,ff,1d,00,00,00,5a,05,00,00,e6,02,00,00
+"Profiling"=dword:00000000
+"ResolveAddresses"=dword:00000001
+"SourcePath"=hex(1):
+"SymbolPath"=hex(1):25,00,5f,00,4e,00,54,00,5f,00,53,00,59,00,4d,00,42,00,4f,\
+  00,4c,00,5f,00,50,00,41,00,54,00,48,00,25,00
+
+[Software\\Sysinternals\\PsExec] 1526746363
+#time=1d3ef8c380e6e2c
+"EulaAccepted"=dword:00000001
+
+[Software\\Wine\\Debug] 1466063387
+#time=1d1c7a3a7c7368a
+"RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
+"RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
+
+[Software\\Wine\\Drivers\\winepulse.drv] 1527977372
+#time=1d3fabe62607d9a
+
+[Software\\Wine\\FileOpenAssociations\\.aes] 1521228902
+#time=1d3bd5de0bdbf52
+"AppName"="Program Files"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-aes.desktop"
+"MimeType"="application/x-wine-extension-aes"
+"OpenWithIcon"="CCAD_Program Files.0"
+"ProgID"="AESToolFile"
+
+[Software\\Wine\\FileOpenAssociations\\.asc] 1489494604
+#time=1d29cbeb523ba06
+"AppName"="SPICE Simulator w/ Schematic Capture"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-asc.desktop"
+"MimeType"="text/plain"
+"OpenWithIcon"="3540_XVIIx86.0"
+"ProgID"="LTspice.Schematic"
+
+[Software\\Wine\\FileOpenAssociations\\.asy] 1489494604
+#time=1d29cbeb52a5c94
+"AppName"="SPICE Simulator w/ Schematic Capture"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-asy.desktop"
+"MimeType"="application/x-wine-extension-asy"
+"OpenWithIcon"="3540_XVIIx86.0"
+"ProgID"="LTspice.Symbol"
+
+[Software\\Wine\\FileOpenAssociations\\.chm] 1466072980
+#time=1d1c7b9fd263f98
+"AppName"="hh"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-chm.desktop"
+"MimeType"="application/vnd.ms-htmlhelp"
+"OpenWithIcon"="A35F_hh.0"
+"ProgID"="chm.file"
+
+[Software\\Wine\\FileOpenAssociations\\.cir] 1489494604
+#time=1d29cbeb533970a
+"AppName"="SPICE Simulator w/ Schematic Capture"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-cir.desktop"
+"MimeType"="application/x-wine-extension-cir"
+"OpenWithIcon"="3540_XVIIx86.0"
+"ProgID"="LTspice.Netlist"
+
+[Software\\Wine\\FileOpenAssociations\\.gdl] 1527977480
+#time=1d3fabea2aae462
+"AppName"="A Wine application"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-gdl.desktop"
+"MimeType"="application/x-wine-extension-gdl"
+"ProgID"="WinGraph.File"
+
+[Software\\Wine\\FileOpenAssociations\\.gif] 1466072980
+#time=1d1c7b9fd34c1da
+"AppName"="Wine Internet Explorer"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-gif.desktop"
+"MimeType"="image/gif"
+"OpenWithIcon"="7596_iexplore.0"
+"ProgID"="giffile"
+
+[Software\\Wine\\FileOpenAssociations\\.hlp] 1466072980
+#time=1d1c7b9fd3eb122
+"AppName"="winhlp32"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-hlp.desktop"
+"MimeType"="application/winhlp"
+"OpenWithIcon"="4137_winhlp32.0"
+"ProgID"="hlpfile"
+
+[Software\\Wine\\FileOpenAssociations\\.htm] 1489326386
+#time=1d29b370ba2d42c
+"AppName"="winebrowser"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-htm.desktop"
+"MimeType"="application/x-extension-htm"
+"OpenWithIcon"="7765_winebrowser.0"
+"ProgID"="htmlfile"
+
+[Software\\Wine\\FileOpenAssociations\\.html] 1489326386
+#time=1d29b370bafe964
+"AppName"="winebrowser"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-html.desktop"
+"MimeType"="application/x-extension-html"
+"OpenWithIcon"="7765_winebrowser.0"
+"ProgID"="htmlfile"
+
+[Software\\Wine\\FileOpenAssociations\\.i64] 1527977480
+#time=1d3fabea2d59bb2
+"AppName"="The Interactive Disassembler"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-i64.desktop"
+"MimeType"="application/x-wine-extension-i64"
+"OpenWithIcon"="3567_ida64.0"
+"ProgID"="IDApro.Database64"
+
+[Software\\Wine\\FileOpenAssociations\\.idb] 1527977480
+#time=1d3fabea2ea3c20
+"AppName"="The Interactive Disassembler"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-idb.desktop"
+"MimeType"="application/x-wine-extension-idb"
+"OpenWithIcon"="789A_ida.0"
+"ProgID"="IDApro.Database32"
+
+[Software\\Wine\\FileOpenAssociations\\.ini] 1466072980
+#time=1d1c7b9fd56ceba
+"AppName"="notepad"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-ini.desktop"
+"MimeType"="application/x-wine-extension-ini"
+"OpenWithIcon"="1E64_notepad.0"
+"ProgID"="inifile"
+
+[Software\\Wine\\FileOpenAssociations\\.jfif] 1466072980
+#time=1d1c7b9fd5ff26a
+"AppName"="Wine Internet Explorer"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-jfif.desktop"
+"MimeType"="image/jpeg"
+"OpenWithIcon"="7596_iexplore.0"
+"ProgID"="pjpegfile"
+
+[Software\\Wine\\FileOpenAssociations\\.jpe] 1466072980
+#time=1d1c7b9fd653dd8
+"AppName"="Wine Internet Explorer"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-jpe.desktop"
+"MimeType"="image/jpeg"
+"OpenWithIcon"="7596_iexplore.0"
+"ProgID"="jpegfile"
+
+[Software\\Wine\\FileOpenAssociations\\.msp] 1466072980
+#time=1d1c7b9fd7bc896
+"AppName"="Wine Installer"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-msp.desktop"
+"MimeType"="application/x-wine-extension-msp"
+"OpenWithIcon"="2402_msiexec.0"
+"ProgID"="Msi.Patch"
+
+[Software\\Wine\\FileOpenAssociations\\.pdf] 1482829732
+#time=1d26020d81b218c
+"AppName"="winebrowser"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-pdf.desktop"
+"MimeType"="application/pdf"
+"OpenWithIcon"="7765_winebrowser.0"
+"ProgID"="pdffile"
+
+[Software\\Wine\\FileOpenAssociations\\.png] 1466072980
+#time=1d1c7b9fd8105a4
+"AppName"="Wine Internet Explorer"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-png.desktop"
+"MimeType"="image/png"
+"OpenWithIcon"="7596_iexplore.0"
+"ProgID"="pngfile"
+
+[Software\\Wine\\FileOpenAssociations\\.py] 1527977481
+#time=1d3fabea320a1c0
+"AppName"="python"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-py.desktop"
+"MimeType"="text/x-python"
+"OpenWithIcon"="9C50_python.0"
+"ProgID"="Python.File"
+
+[Software\\Wine\\FileOpenAssociations\\.pyc] 1527977481
+#time=1d3fabea3227a72
+"AppName"="python"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-pyc.desktop"
+"MimeType"="application/x-python-bytecode"
+"OpenWithIcon"="9C50_python.0"
+"ProgID"="Python.CompiledFile"
+
+[Software\\Wine\\FileOpenAssociations\\.pyw] 1527977481
+#time=1d3fabea32718f2
+"AppName"="pythonw"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-pyw.desktop"
+"MimeType"="text/plain"
+"OpenWithIcon"="A8CE_pythonw.0"
+"ProgID"="Python.NoConFile"
+
+[Software\\Wine\\FileOpenAssociations\\.raw] 1506955531
+#time=1d33b8d18f1cd62
+"AppName"="SPICE Simulator w/ Schematic Capture"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-raw.desktop"
+"MimeType"="image/x-panasonic-rw"
+"OpenWithIcon"="3540_XVIIx86.0"
+"ProgID"="LTspice.Rawfile"
+
+[Software\\Wine\\FileOpenAssociations\\.rtf] 1466072980
+#time=1d1c7b9fd89ee62
+"AppName"="wordpad"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-rtf.desktop"
+"MimeType"="application/rtf"
+"OpenWithIcon"="97C1_wordpad.0"
+"ProgID"="rtffile"
+
+[Software\\Wine\\FileOpenAssociations\\.txt] 1466072980
+#time=1d1c7b9fd8de832
+"AppName"="notepad"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-txt.desktop"
+"MimeType"="text/plain"
+"OpenWithIcon"="1E64_notepad.0"
+"ProgID"="txtfile"
+
+[Software\\Wine\\FileOpenAssociations\\.url] 1466072980
+#time=1d1c7b9fd9273ca
+"AppName"="rundll32"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-url.desktop"
+"MimeType"="application/x-mswinurl"
+"OpenWithIcon"="1CD8_rundll32.0"
+"ProgID"="InternetShortcut"
+
+[Software\\Wine\\FileOpenAssociations\\.vbs] 1466072980
+#time=1d1c7b9fd92f836
+"AppName"="A Wine application"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-vbs.desktop"
+"MimeType"="application/x-wine-extension-vbs"
+"ProgID"="VBSFile"
+
+[Software\\Wine\\FileOpenAssociations\\.whs] 1466081390
+#time=1d1c7cd926a3c68
+"AppName"="A Wine application"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-whs.desktop"
+"MimeType"="application/x-wine-extension-whs"
+"ProgID"="WHSFile"
+
+[Software\\Wine\\FileOpenAssociations\\.whx] 1466081390
+#time=1d1c7cd926a7e80
+"AppName"="A Wine application"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-whx.desktop"
+"MimeType"="application/x-wine-extension-whx"
+"ProgID"="WHXFile"
+
+[Software\\Wine\\FileOpenAssociations\\.wri] 1466072980
+#time=1d1c7b9fd9659ae
+"AppName"="wordpad"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-wri.desktop"
+"MimeType"="application/x-mswrite"
+"OpenWithIcon"="97C1_wordpad.0"
+"ProgID"="wrifile"
+
+[Software\\Wine\\FileOpenAssociations\\.xml] 1466072980
+#time=1d1c7b9fd9833be
+"AppName"="winebrowser"
+"DesktopFile"="/home/erolm_a/.local/share/applications/wine-extension-xml.desktop"
+"MimeType"="application/xml"
+"OpenWithIcon"="7765_winebrowser.0"
+"ProgID"="xmlfile"
+
+[Software\\Wine\\Fonts] 1529612041
+#time=1d4099c64dc6754
+"Codepages"="1252,850"
+"LogPixels"=dword:00000060
+
+[Software\\Wine\\Fonts\\External Fonts] 1529612041
+#time=1d4099c64e55aee
+"@Droid Sans Fallback (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansFallbackFull.ttf"
+"@Noto Sans Coptic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCoptic-Regular.ttf"
+"@Noto Sans Syriac Eastern (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSyriacEastern-Regular.ttf"
+"@Noto Sans Syriac Estrangela (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSyriacEstrangela-Regular.ttf"
+"@Noto Sans Syriac Western (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSyriacWestern-Regular.ttf"
+"@Unifont (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Unifont.ttf"
+"@WenQuanYi Micro Hei (TrueType)"="Z:\\usr\\share\\fonts\\wenquanyi\\wqy-microhei\\wqy-microhei.ttc"
+"@WenQuanYi Micro Hei Mono (TrueType)"="Z:\\usr\\share\\fonts\\wenquanyi\\wqy-microhei\\wqy-microhei.ttc"
+"AkaashNormal (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\AkaashNormal.ttf"
+"AkrutiMal1 Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\mal1-b.ttf"
+"AkrutiMal1 Normal (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\mal1-n.ttf"
+"AkrutiMal2 Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\mal2-b.ttf"
+"AkrutiMal2 Normal (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\mal2-n.ttf"
+"AkrutiTml1 Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\akruti1b.ttf"
+"AkrutiTml1 Normal (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\akruti1.ttf"
+"AkrutiTml2 Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\akruti2b.ttf"
+"AkrutiTml2 Normal (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\akruti2.ttf"
+"Andale Mono (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\andalemo.ttf"
+"Arial (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\arial.ttf"
+"Arial Black (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\ariblk.ttf"
+"Arial Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\ariali.ttf"
+"Arial Grassetto (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\arialbd.ttf"
+"Arial Grassetto Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\arialbi.ttf"
+"Arimo (TrueType)"="Z:\\usr\\share\\fonts\\croscore\\Arimo-Regular.ttf"
+"Arimo Bold (TrueType)"="Z:\\usr\\share\\fonts\\croscore\\Arimo-Bold.ttf"
+"Arimo Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\croscore\\Arimo-BoldItalic.ttf"
+"Arimo Italic (TrueType)"="Z:\\usr\\share\\fonts\\croscore\\Arimo-Italic.ttf"
+"Bitstream Vera Sans (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Vera.ttf"
+"Bitstream Vera Sans Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\VeraBd.ttf"
+"Bitstream Vera Sans Bold Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\VeraBI.ttf"
+"Bitstream Vera Sans Mono (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\VeraMono.ttf"
+"Bitstream Vera Sans Mono Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\VeraMoBd.ttf"
+"Bitstream Vera Sans Mono Bold Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\VeraMoBI.ttf"
+"Bitstream Vera Sans Mono Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\VeraMoIt.ttf"
+"Bitstream Vera Sans Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\VeraIt.ttf"
+"Bitstream Vera Serif (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\VeraSe.ttf"
+"Bitstream Vera Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\VeraSeBd.ttf"
+"C059-BdIta (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\C059-BdIta.otf"
+"C059-Bold (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\C059-Bold.otf"
+"C059-Italic (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\C059-Italic.otf"
+"C059-Roman (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\C059-Roman.otf"
+"Caladea (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Caladea-Regular.ttf"
+"Caladea Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Caladea-Bold.ttf"
+"Caladea Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Caladea-Italic.ttf"
+"Cantarell Bold (TrueType)"="Z:\\usr\\share\\fonts\\cantarell\\Cantarell-Bold.otf"
+"Cantarell Extra Bold (TrueType)"="Z:\\usr\\share\\fonts\\cantarell\\Cantarell-ExtraBold.otf"
+"Cantarell Light (TrueType)"="Z:\\usr\\share\\fonts\\cantarell\\Cantarell-Light.otf"
+"Cantarell Regular (TrueType)"="Z:\\usr\\share\\fonts\\cantarell\\Cantarell-Regular.otf"
+"Cantarell Thin (TrueType)"="Z:\\usr\\share\\fonts\\cantarell\\Cantarell-Thin.otf"
+"Carlito (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Carlito-Regular.ttf"
+"Carlito Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Carlito-Bold.ttf"
+"Carlito Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Carlito-BoldItalic.ttf"
+"Carlito Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Carlito-Italic.ttf"
+"Casper (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Casper_R.ttf"
+"Casper Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Casper_B.ttf"
+"Casper Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Casper_B_It.ttf"
+"Casper Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Casper_It.ttf"
+"Comic Sans MS (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\comic.ttf"
+"Comic Sans MS Grassetto (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\comicbd.ttf"
+"Courier New (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\cour.ttf"
+"Courier New Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\couri.ttf"
+"Courier New Grassetto (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\courbd.ttf"
+"Courier New Grassetto Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\courbi.ttf"
+"Cousine (TrueType)"="Z:\\usr\\share\\fonts\\croscore\\Cousine-Regular.ttf"
+"Cousine Bold (TrueType)"="Z:\\usr\\share\\fonts\\croscore\\Cousine-Bold.ttf"
+"Cousine Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\croscore\\Cousine-BoldItalic.ttf"
+"Cousine Italic (TrueType)"="Z:\\usr\\share\\fonts\\croscore\\Cousine-Italic.ttf"
+"D050000L (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\D050000L.otf"
+"DejaVu Sans (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSans.ttf"
+"DejaVu Sans Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSans-Bold.ttf"
+"DejaVu Sans Bold Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSans-BoldOblique.ttf"
+"DejaVu Sans Condensed (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansCondensed.ttf"
+"DejaVu Sans Condensed Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansCondensed-Bold.ttf"
+"DejaVu Sans Condensed Bold Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansCondensed-BoldOblique.ttf"
+"DejaVu Sans Condensed Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansCondensed-Oblique.ttf"
+"DejaVu Sans ExtraLight (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSans-ExtraLight.ttf"
+"DejaVu Sans Mono (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansMono.ttf"
+"DejaVu Sans Mono Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansMono-Bold.ttf"
+"DejaVu Sans Mono Bold Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansMono-BoldOblique.ttf"
+"DejaVu Sans Mono Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSansMono-Oblique.ttf"
+"DejaVu Sans Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSans-Oblique.ttf"
+"DejaVu Serif (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerif.ttf"
+"DejaVu Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerif-Bold.ttf"
+"DejaVu Serif Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerif-BoldItalic.ttf"
+"DejaVu Serif Condensed (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerifCondensed.ttf"
+"DejaVu Serif Condensed Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerifCondensed-Bold.ttf"
+"DejaVu Serif Condensed Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerifCondensed-BoldItalic.ttf"
+"DejaVu Serif Condensed Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerifCondensed-Italic.ttf"
+"DejaVu Serif Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuSerif-Italic.ttf"
+"DejaVuMathTeXGyre-Regular (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DejaVuMathTeXGyre.ttf"
+"Digital-7 (TrueType)"="Z:\\home\\erolm_a\\.fonts\\digital\\digital-7.ttf"
+"Digital-7 Italic (TrueType)"="Z:\\home\\erolm_a\\.fonts\\digital\\digital-7 (italic).ttf"
+"Digital-7 Mono (TrueType)"="Z:\\home\\erolm_a\\.fonts\\digital\\digital-7 (mono).ttf"
+"Digital-7 MonoItalic (TrueType)"="Z:\\home\\erolm_a\\.fonts\\digital\\digital-7 (mono italic).ttf"
+"Droid Arabic Kufi (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidKufi-Regular.ttf"
+"Droid Arabic Kufi Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidKufi-Bold.ttf"
+"Droid Arabic Naskh (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidNaskh-Regular.ttf"
+"Droid Arabic Naskh Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidNaskh-Bold.ttf"
+"Droid Naskh Shift Alt (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidNaskh-Regular-SystemUI.ttf"
+"Droid Sans (TrueType)"="Z:\\usr\\share\\fonts\\OpenImageIO\\DroidSans.ttf"
+"Droid Sans Arabic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansArabic.ttf"
+"Droid Sans Armenian (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansArmenian.ttf"
+"Droid Sans Bold (TrueType)"="Z:\\usr\\share\\fonts\\OpenImageIO\\DroidSans-Bold.ttf"
+"Droid Sans Devanagari (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansDevanagari-Regular.ttf"
+"Droid Sans Ethiopic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansEthiopic-Regular.ttf"
+"Droid Sans Ethiopic Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansEthiopic-Bold.ttf"
+"Droid Sans Fallback (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansFallbackFull.ttf"
+"Droid Sans Georgian (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansGeorgian.ttf"
+"Droid Sans Hebrew (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansHebrew-Regular.ttf"
+"Droid Sans Hebrew Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansHebrew-Bold.ttf"
+"Droid Sans Japanese (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansJapanese.ttf"
+"Droid Sans Mono (TrueType)"="Z:\\usr\\share\\fonts\\OpenImageIO\\DroidSansMono.ttf"
+"Droid Sans Tamil (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansTamil-Regular.ttf"
+"Droid Sans Tamil Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansTamil-Bold.ttf"
+"Droid Sans Thai (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\DroidSansThai.ttf"
+"Droid Serif (TrueType)"="Z:\\usr\\share\\fonts\\OpenImageIO\\DroidSerif.ttf"
+"Droid Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\OpenImageIO\\DroidSerif-Bold.ttf"
+"Droid Serif Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\OpenImageIO\\DroidSerif-BoldItalic.ttf"
+"Droid Serif Italic (TrueType)"="Z:\\usr\\share\\fonts\\OpenImageIO\\DroidSerif-Italic.ttf"
+"Elite Hacker (Corroded) (TrueType)"="Z:\\home\\erolm_a\\.fonts\\e\\Elite_Hacker_(Corroded).ttf"
+"Font Awesome 5 Brands Regular (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\fa-brands-400.ttf"
+"Font Awesome 5 Free Regular (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\fa-regular-400.ttf"
+"Font Awesome 5 Free Solid (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\fa-solid-900.ttf"
+"FontAwesome (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\fontawesome-webfont.ttf"
+"FreeMono (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\FreeMono.ttf"
+"FreeMono Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\FreeMonoOblique.ttf"
+"FreeMono Grassetto (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\FreeMonoBold.ttf"
+"FreeMono Grassetto Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\FreeMonoBoldOblique.ttf"
+"FreeSans (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\FreeSans.ttf"
+"FreeSans Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\FreeSansOblique.ttf"
+"FreeSans Grassetto (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\FreeSansBold.ttf"
+"FreeSans Grassetto Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\FreeSansBoldOblique.ttf"
+"FreeSerif (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\FreeSerif.ttf"
+"FreeSerif Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\FreeSerifItalic.ttf"
+"FreeSerif Grassetto (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\FreeSerifBold.ttf"
+"FreeSerif Grassetto Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\FreeSerifBoldItalic.ttf"
+"Gargi-1.2b (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Gargi-1.2b.ttf"
+"Georgia (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\georgia.ttf"
+"Georgia Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\georgiai.ttf"
+"Georgia Grassetto (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\georgiab.ttf"
+"Georgia Grassetto Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\georgiaz.ttf"
+"Gtek Technology (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Gtek Technology free promo.ttf"
+"GurbaniBoliLite (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\gbolilite.ttf"
+"Hack Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Hack-Bold.ttf"
+"Hack Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Hack-BoldItalic.ttf"
+"Hack Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Hack-Italic.ttf"
+"Hack Regular (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Hack-Regular.ttf"
+"Icons (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\icons.ttf"
+"Impact (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\impact.ttf"
+"Inconsolata Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Inconsolata-Bold.ttf"
+"Inconsolata Regular (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Inconsolata-Regular.ttf"
+"Iosevka (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-regular.ttf"
+"Iosevka Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-bold.ttf"
+"Iosevka Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-bolditalic.ttf"
+"Iosevka Bold Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-boldoblique.ttf"
+"Iosevka Extralight (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-extralight.ttf"
+"Iosevka Extralight Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-extralightitalic.ttf"
+"Iosevka Extralight Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-extralightoblique.ttf"
+"Iosevka Heavy (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-heavy.ttf"
+"Iosevka Heavy Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-heavyitalic.ttf"
+"Iosevka Heavy Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-heavyoblique.ttf"
+"Iosevka Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-italic.ttf"
+"Iosevka Light (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-light.ttf"
+"Iosevka Light Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-lightitalic.ttf"
+"Iosevka Light Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-lightoblique.ttf"
+"Iosevka Medium (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-medium.ttf"
+"Iosevka Medium Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-mediumitalic.ttf"
+"Iosevka Medium Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-mediumoblique.ttf"
+"Iosevka Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-oblique.ttf"
+"Iosevka Term (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-regular.ttf"
+"Iosevka Term Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-bold.ttf"
+"Iosevka Term Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-bolditalic.ttf"
+"Iosevka Term Bold Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-boldoblique.ttf"
+"Iosevka Term Extralight (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-extralight.ttf"
+"Iosevka Term Extralight Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-extralightitalic.ttf"
+"Iosevka Term Extralight Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-extralightoblique.ttf"
+"Iosevka Term Heavy (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-heavy.ttf"
+"Iosevka Term Heavy Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-heavyitalic.ttf"
+"Iosevka Term Heavy Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-heavyoblique.ttf"
+"Iosevka Term Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-italic.ttf"
+"Iosevka Term Light (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-light.ttf"
+"Iosevka Term Light Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-lightitalic.ttf"
+"Iosevka Term Light Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-lightoblique.ttf"
+"Iosevka Term Medium (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-medium.ttf"
+"Iosevka Term Medium Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-mediumitalic.ttf"
+"Iosevka Term Medium Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-mediumoblique.ttf"
+"Iosevka Term Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-oblique.ttf"
+"Iosevka Term Thin (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-thin.ttf"
+"Iosevka Term Thin Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-thinitalic.ttf"
+"Iosevka Term Thin Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-term-ss04-thinoblique.ttf"
+"Iosevka Thin (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-thin.ttf"
+"Iosevka Thin Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-thinitalic.ttf"
+"Iosevka Thin Oblique (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\iosevka-ss04-thinoblique.ttf"
+"Liberation Mono (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\LiberationMono-Regular.ttf"
+"Liberation Mono Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\LiberationMono-Bold.ttf"
+"Liberation Mono Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\LiberationMono-BoldItalic.ttf"
+"Liberation Mono Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\LiberationMono-Italic.ttf"
+"Liberation Sans (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\LiberationSans-Regular.ttf"
+"Liberation Sans Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\LiberationSans-Bold.ttf"
+"Liberation Sans Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\LiberationSans-BoldItalic.ttf"
+"Liberation Sans Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\LiberationSans-Italic.ttf"
+"Liberation Serif (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\LiberationSerif-Regular.ttf"
+"Liberation Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\LiberationSerif-Bold.ttf"
+"Liberation Serif Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\LiberationSerif-BoldItalic.ttf"
+"Liberation Serif Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\LiberationSerif-Italic.ttf"
+"Likhan (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\LikhanNormal.ttf"
+"LMMono10-Italic (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmono10-italic.otf"
+"LMMono10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmono10-regular.otf"
+"LMMono12-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmono12-regular.otf"
+"LMMono8-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmono8-regular.otf"
+"LMMono9-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmono9-regular.otf"
+"LMMonoCaps10-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonocaps10-oblique.otf"
+"LMMonoCaps10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonocaps10-regular.otf"
+"LMMonoLt10-Bold (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonolt10-bold.otf"
+"LMMonoLt10-BoldOblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonolt10-boldoblique.otf"
+"LMMonoLt10-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonolt10-oblique.otf"
+"LMMonoLt10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonolt10-regular.otf"
+"LMMonoLtCond10-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonoltcond10-oblique.otf"
+"LMMonoLtCond10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonoltcond10-regular.otf"
+"LMMonoProp10-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonoprop10-oblique.otf"
+"LMMonoProp10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonoprop10-regular.otf"
+"LMMonoPropLt10-Bold (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonoproplt10-bold.otf"
+"LMMonoPropLt10-BoldOblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonoproplt10-boldoblique.otf"
+"LMMonoPropLt10-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonoproplt10-oblique.otf"
+"LMMonoPropLt10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonoproplt10-regular.otf"
+"LMMonoSlant10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmmonoslant10-regular.otf"
+"LMRoman10-Bold (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman10-bold.otf"
+"LMRoman10-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman10-bolditalic.otf"
+"LMRoman10-Italic (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman10-italic.otf"
+"LMRoman10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman10-regular.otf"
+"LMRoman12-Bold (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman12-bold.otf"
+"LMRoman12-Italic (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman12-italic.otf"
+"LMRoman12-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman12-regular.otf"
+"LMRoman17-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman17-regular.otf"
+"LMRoman5-Bold (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman5-bold.otf"
+"LMRoman5-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman5-regular.otf"
+"LMRoman6-Bold (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman6-bold.otf"
+"LMRoman6-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman6-regular.otf"
+"LMRoman7-Bold (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman7-bold.otf"
+"LMRoman7-Italic (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman7-italic.otf"
+"LMRoman7-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman7-regular.otf"
+"LMRoman8-Bold (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman8-bold.otf"
+"LMRoman8-Italic (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman8-italic.otf"
+"LMRoman8-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman8-regular.otf"
+"LMRoman9-Bold (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman9-bold.otf"
+"LMRoman9-Italic (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman9-italic.otf"
+"LMRoman9-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmroman9-regular.otf"
+"LMRomanCaps10-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmromancaps10-oblique.otf"
+"LMRomanCaps10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmromancaps10-regular.otf"
+"LMRomanDemi10-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmromandemi10-oblique.otf"
+"LMRomanDemi10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmromandemi10-regular.otf"
+"LMRomanDunh10-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmromandunh10-oblique.otf"
+"LMRomanDunh10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmromandunh10-regular.otf"
+"LMRomanSlant10-Bold (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmromanslant10-bold.otf"
+"LMRomanSlant10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmromanslant10-regular.otf"
+"LMRomanSlant12-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmromanslant12-regular.otf"
+"LMRomanSlant17-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmromanslant17-regular.otf"
+"LMRomanSlant8-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmromanslant8-regular.otf"
+"LMRomanSlant9-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmromanslant9-regular.otf"
+"LMRomanUnsl10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmromanunsl10-regular.otf"
+"LMSans10-Bold (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsans10-bold.otf"
+"LMSans10-BoldOblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsans10-boldoblique.otf"
+"LMSans10-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsans10-oblique.otf"
+"LMSans10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsans10-regular.otf"
+"LMSans12-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsans12-oblique.otf"
+"LMSans12-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsans12-regular.otf"
+"LMSans17-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsans17-oblique.otf"
+"LMSans17-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsans17-regular.otf"
+"LMSans8-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsans8-oblique.otf"
+"LMSans8-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsans8-regular.otf"
+"LMSans9-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsans9-oblique.otf"
+"LMSans9-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsans9-regular.otf"
+"LMSansDemiCond10-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsansdemicond10-oblique.otf"
+"LMSansDemiCond10-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsansdemicond10-regular.otf"
+"LMSansQuot8-Bold (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsansquot8-bold.otf"
+"LMSansQuot8-BoldOblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsansquot8-boldoblique.otf"
+"LMSansQuot8-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsansquot8-oblique.otf"
+"LMSansQuot8-Regular (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\lmsansquot8-regular.otf"
+"malayalam (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\malayalam.ttf"
+"MalOtf (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\MalOtf.ttf"
+"Marlett (TrueType)"="Z:\\usr\\bin\\..\\share\\wine\\fonts\\marlett.ttf"
+"Material Icons (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\MaterialIcons-Regular.ttf"
+"Montserrat Black (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-Black.ttf"
+"Montserrat Black Italic (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
+"Montserrat Bold (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-Bold.ttf"
+"Montserrat Bold Italic (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
+"Montserrat ExtraBold (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
+"Montserrat ExtraBold Italic (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
+"Montserrat ExtraLight (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
+"Montserrat ExtraLight Italic (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
+"Montserrat Italic (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-Italic.ttf"
+"Montserrat Light (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-Light.ttf"
+"Montserrat Light Italic (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-LightItalic.ttf"
+"Montserrat Medium (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-Medium.ttf"
+"Montserrat Medium Italic (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
+"Montserrat Regular (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-Regular.ttf"
+"Montserrat SemiBold (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-SemiBold.ttf"
+"Montserrat SemiBold Italic (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
+"Montserrat Thin (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-Thin.ttf"
+"Montserrat Thin Italic (TrueType)"="Z:\\home\\erolm_a\\.fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
+"Mukti Narrow (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\MuktiNarrow.ttf"
+"Mukti Narrow Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\MuktiNarrowBold.ttf"
+"NimbusMonoPS-Bold (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusMonoPS-Bold.otf"
+"NimbusMonoPS-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusMonoPS-BoldItalic.otf"
+"NimbusMonoPS-Italic (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusMonoPS-Italic.otf"
+"NimbusMonoPS-Regular (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusMonoPS-Regular.otf"
+"NimbusRoman-Bold (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusRoman-Bold.otf"
+"NimbusRoman-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusRoman-BoldItalic.otf"
+"NimbusRoman-Italic (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusRoman-Italic.otf"
+"NimbusRoman-Regular (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusRoman-Regular.otf"
+"NimbusSans-Bold (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusSans-Bold.otf"
+"NimbusSans-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusSans-BoldItalic.otf"
+"NimbusSans-Italic (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusSans-Italic.otf"
+"NimbusSans-Regular (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusSans-Regular.otf"
+"NimbusSansNarrow-Bold (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusSansNarrow-Bold.otf"
+"NimbusSansNarrow-BoldOblique (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusSansNarrow-BdOblique.otf"
+"NimbusSansNarrow-Oblique (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusSansNarrow-Oblique.otf"
+"NimbusSansNarrow-Regular (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\NimbusSansNarrow-Regular.otf"
+"Noto Color Emoji"="Z:\\usr\\share\\fonts\\noto\\NotoColorEmoji.ttf"
+"Noto Emoji (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoEmoji-Regular.ttf"
+"Noto Kufi Arabic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoKufiArabic-Regular.ttf"
+"Noto Kufi Arabic Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoKufiArabic-Bold.ttf"
+"Noto Naskh Arabic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoNaskhArabic-Regular.ttf"
+"Noto Naskh Arabic Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoNaskhArabic-Bold.ttf"
+"Noto Naskh Arabic UI (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoNaskhArabicUI-Regular.ttf"
+"Noto Naskh Arabic UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoNaskhArabicUI-Bold.ttf"
+"Noto Nastaliq Urdu (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoNastaliqUrdu-Regular.ttf"
+"Noto Sans Adlam Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansAdlam-Regular.ttf"
+"Noto Sans Adlam Unjoined Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansAdlamUnjoined-Regular.ttf"
+"Noto Sans Anatolian Hieroglyphs Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansAnatolianHieroglyphs-Regular.ttf"
+"Noto Sans Arabic Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArabic-Black.ttf"
+"Noto Sans Arabic Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArabic-Bold.ttf"
+"Noto Sans Arabic Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArabic-Light.ttf"
+"Noto Sans Arabic Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArabic-Medium.ttf"
+"Noto Sans Arabic Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArabic-Regular.ttf"
+"Noto Sans Arabic Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArabic-Thin.ttf"
+"Noto Sans Arabic UI Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArabicUI-Black.ttf"
+"Noto Sans Arabic UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArabicUI-Bold.ttf"
+"Noto Sans Arabic UI Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArabicUI-Light.ttf"
+"Noto Sans Arabic UI Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArabicUI-Medium.ttf"
+"Noto Sans Arabic UI Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArabicUI-Regular.ttf"
+"Noto Sans Arabic UI Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArabicUI-Thin.ttf"
+"Noto Sans Armenian Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArmenian-Black.ttf"
+"Noto Sans Armenian Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArmenian-Bold.ttf"
+"Noto Sans Armenian Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArmenian-Light.ttf"
+"Noto Sans Armenian Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArmenian-Medium.ttf"
+"Noto Sans Armenian Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArmenian-Regular.ttf"
+"Noto Sans Armenian Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansArmenian-Thin.ttf"
+"Noto Sans Avestan Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansAvestan-Regular.ttf"
+"Noto Sans Balinese (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBalinese-Regular.ttf"
+"Noto Sans Bamum Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBamum-Regular.ttf"
+"Noto Sans Batak Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBatak-Regular.ttf"
+"Noto Sans Bengali Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBengali-Black.ttf"
+"Noto Sans Bengali Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBengali-Bold.ttf"
+"Noto Sans Bengali Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBengali-Light.ttf"
+"Noto Sans Bengali Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBengali-Medium.ttf"
+"Noto Sans Bengali Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBengali-Regular.ttf"
+"Noto Sans Bengali Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBengali-Thin.ttf"
+"Noto Sans Bengali UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBengaliUI-Bold.ttf"
+"Noto Sans Bengali UI Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBengaliUI-Regular.ttf"
+"Noto Sans Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSans-Black.ttf"
+"Noto Sans Black Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSans-BlackItalic.ttf"
+"Noto Sans Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSans-Bold.ttf"
+"Noto Sans Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSans-BoldItalic.ttf"
+"Noto Sans Brahmi (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBrahmi-Regular.ttf"
+"Noto Sans Buginese (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBuginese-Regular.ttf"
+"Noto Sans Buhid Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansBuhid-Regular.ttf"
+"Noto Sans Canadian Aboriginal (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCanadianAboriginal-Regular.ttf"
+"Noto Sans Carian Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCarian-Regular.ttf"
+"Noto Sans Chakma Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansChakma-Regular.ttf"
+"Noto Sans Cham Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCham-Black.ttf"
+"Noto Sans Cham Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCham-Bold.ttf"
+"Noto Sans Cham Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCham-Light.ttf"
+"Noto Sans Cham Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCham-Medium.ttf"
+"Noto Sans Cham Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCham-Regular.ttf"
+"Noto Sans Cham Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCham-Thin.ttf"
+"Noto Sans Cherokee Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCherokee-Black.ttf"
+"Noto Sans Cherokee Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCherokee-Bold.ttf"
+"Noto Sans Cherokee Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCherokee-Light.ttf"
+"Noto Sans Cherokee Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCherokee-Medium.ttf"
+"Noto Sans Cherokee Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCherokee-Regular.ttf"
+"Noto Sans Cherokee Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCherokee-Thin.ttf"
+"Noto Sans Coptic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCoptic-Regular.ttf"
+"Noto Sans Cuneiform Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCuneiform-Regular.ttf"
+"Noto Sans Cypriot Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansCypriot-Regular.ttf"
+"Noto Sans Deseret Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDeseret-Regular.ttf"
+"Noto Sans Devanagari Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDevanagari-Bold.ttf"
+"Noto Sans Devanagari Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDevanagari-Regular.ttf"
+"Noto Sans Devanagari Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDevanagari-Thin.ttf"
+"Noto Sans Devanagari UI Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDevanagariUI-Black.ttf"
+"Noto Sans Devanagari UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDevanagariUI-Bold.ttf"
+"Noto Sans Devanagari UI Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDevanagariUI-Light.ttf"
+"Noto Sans Devanagari UI Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDevanagariUI-Medium.ttf"
+"Noto Sans Devanagari UI Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDevanagariUI-Regular.ttf"
+"Noto Sans Display Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDisplay-Black.ttf"
+"Noto Sans Display Black Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDisplay-BlackItalic.ttf"
+"Noto Sans Display Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDisplay-Bold.ttf"
+"Noto Sans Display Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDisplay-BoldItalic.ttf"
+"Noto Sans Display Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDisplay-Italic.ttf"
+"Noto Sans Display Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDisplay-Light.ttf"
+"Noto Sans Display Light Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDisplay-LightItalic.ttf"
+"Noto Sans Display Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDisplay-Medium.ttf"
+"Noto Sans Display Medium Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDisplay-MediumItalic.ttf"
+"Noto Sans Display Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDisplay-Regular.ttf"
+"Noto Sans Display Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDisplay-Thin.ttf"
+"Noto Sans Display Thin Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansDisplay-ThinItalic.ttf"
+"Noto Sans Egyptian Hieroglyphs Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansEgyptianHieroglyphs-Regular.ttf"
+"Noto Sans Ethiopic Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansEthiopic-Black.ttf"
+"Noto Sans Ethiopic Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansEthiopic-Bold.ttf"
+"Noto Sans Ethiopic Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansEthiopic-Light.ttf"
+"Noto Sans Ethiopic Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansEthiopic-Medium.ttf"
+"Noto Sans Ethiopic Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansEthiopic-Regular.ttf"
+"Noto Sans Ethiopic Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansEthiopic-Thin.ttf"
+"Noto Sans Georgian Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGeorgian-Black.ttf"
+"Noto Sans Georgian Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGeorgian-Bold.ttf"
+"Noto Sans Georgian Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGeorgian-Light.ttf"
+"Noto Sans Georgian Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGeorgian-Medium.ttf"
+"Noto Sans Georgian Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGeorgian-Regular.ttf"
+"Noto Sans Georgian Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGeorgian-Thin.ttf"
+"Noto Sans Glagolitic Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGlagolitic-Regular.ttf"
+"Noto Sans Gothic Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGothic-Regular.ttf"
+"Noto Sans Gujarati (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGujarati-Regular.ttf"
+"Noto Sans Gujarati Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGujarati-Bold.ttf"
+"Noto Sans Gujarati UI (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGujaratiUI-Regular.ttf"
+"Noto Sans Gujarati UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGujaratiUI-Bold.ttf"
+"Noto Sans Gurmukhi (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGurmukhi-Regular.ttf"
+"Noto Sans Gurmukhi Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGurmukhi-Bold.ttf"
+"Noto Sans Gurmukhi UI (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGurmukhiUI-Regular.ttf"
+"Noto Sans Gurmukhi UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansGurmukhiUI-Bold.ttf"
+"Noto Sans Hanunoo Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansHanunoo-Regular.ttf"
+"Noto Sans Hebrew Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansHebrew-Black.ttf"
+"Noto Sans Hebrew Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansHebrew-Bold.ttf"
+"Noto Sans Hebrew Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansHebrew-Light.ttf"
+"Noto Sans Hebrew Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansHebrew-Medium.ttf"
+"Noto Sans Hebrew Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansHebrew-Regular.ttf"
+"Noto Sans Hebrew Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansHebrew-Thin.ttf"
+"Noto Sans Imperial Aramaic Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansImperialAramaic-Regular.ttf"
+"Noto Sans Inscriptional Pahlavi Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansInscriptionalPahlavi-Regular.ttf"
+"Noto Sans Inscriptional Parthian Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansInscriptionalParthian-Regular.ttf"
+"Noto Sans Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSans-Italic.ttf"
+"Noto Sans Javanese (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansJavanese-Regular.ttf"
+"Noto Sans Kaithi (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKaithi-Regular.ttf"
+"Noto Sans Kannada (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKannada-Regular.ttf"
+"Noto Sans Kannada Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKannada-Bold.ttf"
+"Noto Sans Kannada UI (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKannadaUI-Regular.ttf"
+"Noto Sans Kannada UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKannadaUI-Bold.ttf"
+"Noto Sans Kayah Li Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKayahLi-Regular.ttf"
+"Noto Sans Kharoshthi (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKharoshthi-Regular.ttf"
+"Noto Sans Khmer Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKhmer-Black.ttf"
+"Noto Sans Khmer Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKhmer-Bold.ttf"
+"Noto Sans Khmer Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKhmer-Light.ttf"
+"Noto Sans Khmer Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKhmer-Medium.ttf"
+"Noto Sans Khmer Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKhmer-Regular.ttf"
+"Noto Sans Khmer Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKhmer-Thin.ttf"
+"Noto Sans Khmer UI Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKhmerUI-Black.ttf"
+"Noto Sans Khmer UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKhmerUI-Bold.ttf"
+"Noto Sans Khmer UI Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKhmerUI-Light.ttf"
+"Noto Sans Khmer UI Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKhmerUI-Medium.ttf"
+"Noto Sans Khmer UI Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKhmerUI-Regular.ttf"
+"Noto Sans Khmer UI Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansKhmerUI-Thin.ttf"
+"Noto Sans Lao Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLao-Black.ttf"
+"Noto Sans Lao Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLao-Bold.ttf"
+"Noto Sans Lao Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLao-Light.ttf"
+"Noto Sans Lao Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLao-Medium.ttf"
+"Noto Sans Lao Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLao-Regular.ttf"
+"Noto Sans Lao Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLao-Thin.ttf"
+"Noto Sans Lao UI Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLaoUI-Black.ttf"
+"Noto Sans Lao UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLaoUI-Bold.ttf"
+"Noto Sans Lao UI Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLaoUI-Light.ttf"
+"Noto Sans Lao UI Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLaoUI-Medium.ttf"
+"Noto Sans Lao UI Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLaoUI-Regular.ttf"
+"Noto Sans Lao UI Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLaoUI-Thin.ttf"
+"Noto Sans Lepcha (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLepcha-Regular.ttf"
+"Noto Sans Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSans-Light.ttf"
+"Noto Sans Light Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSans-LightItalic.ttf"
+"Noto Sans Limbu (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLimbu-Regular.ttf"
+"Noto Sans Linear B Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLinearB-Regular.ttf"
+"Noto Sans Lisu Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLisu-Regular.ttf"
+"Noto Sans Lycian Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLycian-Regular.ttf"
+"Noto Sans Lydian Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansLydian-Regular.ttf"
+"Noto Sans Malayalam (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMalayalam-Regular.ttf"
+"Noto Sans Malayalam Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMalayalam-Bold.ttf"
+"Noto Sans Malayalam UI (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMalayalamUI-Regular.ttf"
+"Noto Sans Malayalam UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMalayalamUI-Bold.ttf"
+"Noto Sans Mandaic Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMandaic-Regular.ttf"
+"Noto Sans Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSans-Medium.ttf"
+"Noto Sans Medium Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSans-MediumItalic.ttf"
+"Noto Sans Meetei Mayek (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMeeteiMayek-Regular.ttf"
+"Noto Sans Mongolian (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMongolian-Regular.ttf"
+"Noto Sans Mono Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMono-Black.ttf"
+"Noto Sans Mono Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMono-Bold.ttf"
+"Noto Sans Mono Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMono-Light.ttf"
+"Noto Sans Mono Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMono-Medium.ttf"
+"Noto Sans Mono Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMono-Regular.ttf"
+"Noto Sans Mono Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMono-Thin.ttf"
+"Noto Sans Myanmar Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMyanmar-Black.ttf"
+"Noto Sans Myanmar Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMyanmar-Bold.ttf"
+"Noto Sans Myanmar Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMyanmar-Light.ttf"
+"Noto Sans Myanmar Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMyanmar-Medium.ttf"
+"Noto Sans Myanmar Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMyanmar-Regular.ttf"
+"Noto Sans Myanmar Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMyanmar-Thin.ttf"
+"Noto Sans Myanmar UI Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMyanmarUI-Black.ttf"
+"Noto Sans Myanmar UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMyanmarUI-Bold.ttf"
+"Noto Sans Myanmar UI Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMyanmarUI-Light.ttf"
+"Noto Sans Myanmar UI Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMyanmarUI-Medium.ttf"
+"Noto Sans Myanmar UI Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMyanmarUI-Regular.ttf"
+"Noto Sans Myanmar UI Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansMyanmarUI-Thin.ttf"
+"Noto Sans New Tai Lue Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansNewTaiLue-Regular.ttf"
+"Noto Sans NKo Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansNKo-Regular.ttf"
+"Noto Sans Ogham Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansOgham-Regular.ttf"
+"Noto Sans Ol Chiki Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansOlChiki-Regular.ttf"
+"Noto Sans Old Italic Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansOldItalic-Regular.ttf"
+"Noto Sans Old Persian Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansOldPersian-Regular.ttf"
+"Noto Sans Old South Arabian Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansOldSouthArabian-Regular.ttf"
+"Noto Sans Old Turkic Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansOldTurkic-Regular.ttf"
+"Noto Sans Oriya (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansOriya-Regular.ttf"
+"Noto Sans Oriya Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansOriya-Bold.ttf"
+"Noto Sans Oriya UI (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansOriyaUI-Regular.ttf"
+"Noto Sans Oriya UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansOriyaUI-Bold.ttf"
+"Noto Sans Osage Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansOsage-Regular.ttf"
+"Noto Sans Osmanya Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansOsmanya-Regular.ttf"
+"Noto Sans Phags Pa (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansPhagsPa-Regular.ttf"
+"Noto Sans Phoenician Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansPhoenician-Regular.ttf"
+"Noto Sans Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSans-Regular.ttf"
+"Noto Sans Rejang (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansRejang-Regular.ttf"
+"Noto Sans Runic Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansRunic-Regular.ttf"
+"Noto Sans Samaritan Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSamaritan-Regular.ttf"
+"Noto Sans Saurashtra (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSaurashtra-Regular.ttf"
+"Noto Sans Shavian Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansShavian-Regular.ttf"
+"Noto Sans Sinhala Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSinhala-Black.ttf"
+"Noto Sans Sinhala Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSinhala-Bold.ttf"
+"Noto Sans Sinhala Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSinhala-Light.ttf"
+"Noto Sans Sinhala Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSinhala-Regular.ttf"
+"Noto Sans Sinhala Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSinhala-Thin.ttf"
+"Noto Sans Sinhala UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSinhalaUI-Bold.ttf"
+"Noto Sans Sinhala UI Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSinhalaUI-Medium.ttf"
+"Noto Sans Sinhala UI Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSinhalaUI-Regular.ttf"
+"Noto Sans Sundanese (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSundanese-Regular.ttf"
+"Noto Sans Syloti Nagri (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSylotiNagri-Regular.ttf"
+"Noto Sans Symbols Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSymbols-Black.ttf"
+"Noto Sans Symbols Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSymbols-Bold.ttf"
+"Noto Sans Symbols Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSymbols-Light.ttf"
+"Noto Sans Symbols Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSymbols-Medium.ttf"
+"Noto Sans Symbols Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSymbols-Regular.ttf"
+"Noto Sans Symbols Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSymbols-Thin.ttf"
+"Noto Sans Symbols2 Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSymbols2-Regular.ttf"
+"Noto Sans Syriac Eastern (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSyriacEastern-Regular.ttf"
+"Noto Sans Syriac Estrangela (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSyriacEstrangela-Regular.ttf"
+"Noto Sans Syriac Western (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansSyriacWestern-Regular.ttf"
+"Noto Sans Tagalog (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTagalog-Regular.ttf"
+"Noto Sans Tagbanwa (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTagbanwa-Regular.ttf"
+"Noto Sans Tai Le (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTaiLe-Regular.ttf"
+"Noto Sans Tai Tham (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTaiTham-Regular.ttf"
+"Noto Sans Tai Viet (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTaiViet-Regular.ttf"
+"Noto Sans Tamil Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTamil-Bold.ttf"
+"Noto Sans Tamil Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTamil-Regular.ttf"
+"Noto Sans Tamil Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTamil-Thin.ttf"
+"Noto Sans Tamil UI Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTamilUI-Black.ttf"
+"Noto Sans Tamil UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTamilUI-Bold.ttf"
+"Noto Sans Tamil UI Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTamilUI-Light.ttf"
+"Noto Sans Tamil UI Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTamilUI-Medium.ttf"
+"Noto Sans Tamil UI Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTamilUI-Regular.ttf"
+"Noto Sans Telugu (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTelugu-Regular.ttf"
+"Noto Sans Telugu Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTelugu-Bold.ttf"
+"Noto Sans Telugu UI (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTeluguUI-Regular.ttf"
+"Noto Sans Telugu UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTeluguUI-Bold.ttf"
+"Noto Sans Thaana (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThaana-Regular.ttf"
+"Noto Sans Thaana Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThaana-Bold.ttf"
+"Noto Sans Thai Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThai-Black.ttf"
+"Noto Sans Thai Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThai-Bold.ttf"
+"Noto Sans Thai Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThai-Light.ttf"
+"Noto Sans Thai Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThai-Medium.ttf"
+"Noto Sans Thai Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThai-Regular.ttf"
+"Noto Sans Thai Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThai-Thin.ttf"
+"Noto Sans Thai UI Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThaiUI-Black.ttf"
+"Noto Sans Thai UI Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThaiUI-Bold.ttf"
+"Noto Sans Thai UI Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThaiUI-Light.ttf"
+"Noto Sans Thai UI Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThaiUI-Medium.ttf"
+"Noto Sans Thai UI Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThaiUI-Regular.ttf"
+"Noto Sans Thai UI Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansThaiUI-Thin.ttf"
+"Noto Sans Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSans-Thin.ttf"
+"Noto Sans Thin Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSans-ThinItalic.ttf"
+"Noto Sans Tibetan (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTibetan-Regular.ttf"
+"Noto Sans Tibetan Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTibetan-Bold.ttf"
+"Noto Sans Tifinagh Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansTifinagh-Regular.ttf"
+"Noto Sans Ugaritic Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansUgaritic-Regular.ttf"
+"Noto Sans Vai Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansVai-Regular.ttf"
+"Noto Sans Yi Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSansYi-Regular.ttf"
+"Noto Serif Armenian Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifArmenian-Black.ttf"
+"Noto Serif Armenian Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifArmenian-Bold.ttf"
+"Noto Serif Armenian Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifArmenian-Light.ttf"
+"Noto Serif Armenian Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifArmenian-Medium.ttf"
+"Noto Serif Armenian Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifArmenian-Regular.ttf"
+"Noto Serif Armenian Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifArmenian-Thin.ttf"
+"Noto Serif Bengali (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifBengali-Regular.ttf"
+"Noto Serif Bengali Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifBengali-Bold.ttf"
+"Noto Serif Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerif-Black.ttf"
+"Noto Serif Black Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerif-BlackItalic.ttf"
+"Noto Serif Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerif-Bold.ttf"
+"Noto Serif Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerif-BoldItalic.ttf"
+"Noto Serif Devanagari (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDevanagari-Regular.ttf"
+"Noto Serif Devanagari Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDevanagari-Bold.ttf"
+"Noto Serif Display Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDisplay-Black.ttf"
+"Noto Serif Display Black Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDisplay-BlackItalic.ttf"
+"Noto Serif Display Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDisplay-Bold.ttf"
+"Noto Serif Display Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDisplay-BoldItalic.ttf"
+"Noto Serif Display Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDisplay-Italic.ttf"
+"Noto Serif Display Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDisplay-Light.ttf"
+"Noto Serif Display Light Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDisplay-LightItalic.ttf"
+"Noto Serif Display Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDisplay-Medium.ttf"
+"Noto Serif Display Medium Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDisplay-MediumItalic.ttf"
+"Noto Serif Display Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDisplay-Regular.ttf"
+"Noto Serif Display Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDisplay-Thin.ttf"
+"Noto Serif Display Thin Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifDisplay-ThinItalic.ttf"
+"Noto Serif Ethiopic Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifEthiopic-Black.ttf"
+"Noto Serif Ethiopic Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifEthiopic-Bold.ttf"
+"Noto Serif Ethiopic Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifEthiopic-Light.ttf"
+"Noto Serif Ethiopic Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifEthiopic-Medium.ttf"
+"Noto Serif Ethiopic Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifEthiopic-Regular.ttf"
+"Noto Serif Ethiopic Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifEthiopic-Thin.ttf"
+"Noto Serif Georgian Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifGeorgian-Black.ttf"
+"Noto Serif Georgian Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifGeorgian-Bold.ttf"
+"Noto Serif Georgian Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifGeorgian-Light.ttf"
+"Noto Serif Georgian Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifGeorgian-Medium.ttf"
+"Noto Serif Georgian Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifGeorgian-Regular.ttf"
+"Noto Serif Georgian Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifGeorgian-Thin.ttf"
+"Noto Serif Gujarati (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifGujarati-Regular.ttf"
+"Noto Serif Gujarati Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifGujarati-Bold.ttf"
+"Noto Serif Hebrew Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifHebrew-Black.ttf"
+"Noto Serif Hebrew Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifHebrew-Bold.ttf"
+"Noto Serif Hebrew Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifHebrew-Light.ttf"
+"Noto Serif Hebrew Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifHebrew-Medium.ttf"
+"Noto Serif Hebrew Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifHebrew-Regular.ttf"
+"Noto Serif Hebrew Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifHebrew-Thin.ttf"
+"Noto Serif Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerif-Italic.ttf"
+"Noto Serif Kannada (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifKannada-Regular.ttf"
+"Noto Serif Kannada Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifKannada-Bold.ttf"
+"Noto Serif Khmer Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifKhmer-Black.ttf"
+"Noto Serif Khmer Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifKhmer-Bold.ttf"
+"Noto Serif Khmer Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifKhmer-Light.ttf"
+"Noto Serif Khmer Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifKhmer-Medium.ttf"
+"Noto Serif Khmer Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifKhmer-Regular.ttf"
+"Noto Serif Khmer Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifKhmer-Thin.ttf"
+"Noto Serif Lao Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifLao-Black.ttf"
+"Noto Serif Lao Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifLao-Bold.ttf"
+"Noto Serif Lao Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifLao-Light.ttf"
+"Noto Serif Lao Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifLao-Medium.ttf"
+"Noto Serif Lao Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifLao-Regular.ttf"
+"Noto Serif Lao Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifLao-Thin.ttf"
+"Noto Serif Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerif-Light.ttf"
+"Noto Serif Light Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerif-LightItalic.ttf"
+"Noto Serif Malayalam (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifMalayalam-Regular.ttf"
+"Noto Serif Malayalam Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifMalayalam-Bold.ttf"
+"Noto Serif Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerif-Medium.ttf"
+"Noto Serif Medium Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerif-MediumItalic.ttf"
+"Noto Serif Myanmar Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifMyanmar-Black.ttf"
+"Noto Serif Myanmar Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifMyanmar-Bold.ttf"
+"Noto Serif Myanmar Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifMyanmar-Light.ttf"
+"Noto Serif Myanmar Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifMyanmar-Medium.ttf"
+"Noto Serif Myanmar Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifMyanmar-Regular.ttf"
+"Noto Serif Myanmar Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifMyanmar-Thin.ttf"
+"Noto Serif Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerif-Regular.ttf"
+"Noto Serif Sinhala Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifSinhala-Black.ttf"
+"Noto Serif Sinhala Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifSinhala-Bold.ttf"
+"Noto Serif Sinhala Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifSinhala-Light.ttf"
+"Noto Serif Sinhala Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifSinhala-Medium.ttf"
+"Noto Serif Sinhala Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifSinhala-Regular.ttf"
+"Noto Serif Sinhala Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifSinhala-Thin.ttf"
+"Noto Serif Tamil Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifTamil-Black.ttf"
+"Noto Serif Tamil Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifTamil-Bold.ttf"
+"Noto Serif Tamil Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifTamil-Light.ttf"
+"Noto Serif Tamil Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifTamil-Medium.ttf"
+"Noto Serif Tamil Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifTamil-Regular.ttf"
+"Noto Serif Tamil Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifTamil-Thin.ttf"
+"Noto Serif Telugu (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifTelugu-Regular.ttf"
+"Noto Serif Telugu Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifTelugu-Bold.ttf"
+"Noto Serif Thai Black (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifThai-Black.ttf"
+"Noto Serif Thai Bold (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifThai-Bold.ttf"
+"Noto Serif Thai Light (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifThai-Light.ttf"
+"Noto Serif Thai Medium (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifThai-Medium.ttf"
+"Noto Serif Thai Regular (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifThai-Regular.ttf"
+"Noto Serif Thai Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerifThai-Thin.ttf"
+"Noto Serif Thin (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerif-Thin.ttf"
+"Noto Serif Thin Italic (TrueType)"="Z:\\usr\\share\\fonts\\noto\\NotoSerif-ThinItalic.ttf"
+"orya (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\oriya.ttf"
+"P052-Bold (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\P052-Bold.otf"
+"P052-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\P052-BoldItalic.otf"
+"P052-Italic (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\P052-Italic.otf"
+"P052-Roman (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\P052-Roman.otf"
+"padmaa-bold-indictrans (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\padmaa-Bold-0.5.ttf"
+"padmaa-normal-indictrans (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\padmaa-Medium-0.5.ttf"
+"PowerlineSymbols (TrueType)"="Z:\\usr\\share\\fonts\\OTF\\PowerlineSymbols.otf"
+"Roboto Black (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Roboto-Black.ttf"
+"Roboto Black Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Roboto-BlackItalic.ttf"
+"Roboto Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Roboto-Bold.ttf"
+"Roboto Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Roboto-BoldItalic.ttf"
+"Roboto Condensed Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\RobotoCondensed-Bold.ttf"
+"Roboto Condensed Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\RobotoCondensed-BoldItalic.ttf"
+"Roboto Condensed Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\RobotoCondensed-Italic.ttf"
+"Roboto Condensed Light (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\RobotoCondensed-Light.ttf"
+"Roboto Condensed Light Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\RobotoCondensed-LightItalic.ttf"
+"Roboto Condensed Regular (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\RobotoCondensed-Regular.ttf"
+"Roboto Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Roboto-Italic.ttf"
+"Roboto Light (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Roboto-Light.ttf"
+"Roboto Light Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Roboto-LightItalic.ttf"
+"Roboto Medium (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Roboto-Medium.ttf"
+"Roboto Medium Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Roboto-MediumItalic.ttf"
+"Roboto Regular (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Roboto-Regular.ttf"
+"Roboto Thin (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Roboto-Thin.ttf"
+"Roboto Thin Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Roboto-ThinItalic.ttf"
+"Sagar (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\SagarNormal.ttf"
+"Sampige (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Sampige.ttf"
+"Santana (TrueType)"="Z:\\home\\erolm_a\\.fonts\\s\\Santana.ttf"
+"Santana-Black (TrueType)"="Z:\\home\\erolm_a\\.fonts\\s\\Santana_Black.ttf"
+"Santana-BlackCondensed (TrueType)"="Z:\\home\\erolm_a\\.fonts\\s\\Santana_BlackCondensed.ttf"
+"Santana-Bold (TrueType)"="Z:\\home\\erolm_a\\.fonts\\s\\Santana_Bold.ttf"
+"Santana-RegularCondensed (TrueType)"="Z:\\home\\erolm_a\\.fonts\\s\\Santana_RegularCondensed.ttf"
+"SantanaXtraCondensed (TrueType)"="Z:\\home\\erolm_a\\.fonts\\s\\SantanaXtraCondensed.ttf"
+"Source Sans Pro (TrueType)"="Z:\\usr\\share\\fonts\\adobe-source-sans-pro\\SourceSansPro-Regular.otf"
+"Source Sans Pro Black (TrueType)"="Z:\\usr\\share\\fonts\\adobe-source-sans-pro\\SourceSansPro-Black.otf"
+"Source Sans Pro Black Italic (TrueType)"="Z:\\usr\\share\\fonts\\adobe-source-sans-pro\\SourceSansPro-BlackIt.otf"
+"Source Sans Pro Bold (TrueType)"="Z:\\usr\\share\\fonts\\adobe-source-sans-pro\\SourceSansPro-Bold.otf"
+"Source Sans Pro Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\adobe-source-sans-pro\\SourceSansPro-BoldIt.otf"
+"Source Sans Pro ExtraLight (TrueType)"="Z:\\usr\\share\\fonts\\adobe-source-sans-pro\\SourceSansPro-ExtraLight.otf"
+"Source Sans Pro ExtraLight Italic (TrueType)"="Z:\\usr\\share\\fonts\\adobe-source-sans-pro\\SourceSansPro-ExtraLightIt.otf"
+"Source Sans Pro Italic (TrueType)"="Z:\\usr\\share\\fonts\\adobe-source-sans-pro\\SourceSansPro-It.otf"
+"Source Sans Pro Light (TrueType)"="Z:\\usr\\share\\fonts\\adobe-source-sans-pro\\SourceSansPro-Light.otf"
+"Source Sans Pro Light Italic (TrueType)"="Z:\\usr\\share\\fonts\\adobe-source-sans-pro\\SourceSansPro-LightIt.otf"
+"Source Sans Pro Semibold (TrueType)"="Z:\\usr\\share\\fonts\\adobe-source-sans-pro\\SourceSansPro-Semibold.otf"
+"Source Sans Pro Semibold Italic (TrueType)"="Z:\\usr\\share\\fonts\\adobe-source-sans-pro\\SourceSansPro-SemiboldIt.otf"
+"Standard Symbols PS (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\StandardSymbolsPS.otf"
+"Symbol (TrueType)"="Z:\\usr\\bin\\..\\share\\wine\\fonts\\symbol.ttf"
+"Tahoma (TrueType)"="Z:\\usr\\bin\\..\\share\\wine\\fonts\\tahoma.ttf"
+"Tahoma Bold (TrueType)"="Z:\\usr\\bin\\..\\share\\wine\\fonts\\tahomabd.ttf"
+"TAMu_Kadambri Regular (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\TAMu_Kadampari.ttf"
+"TAMu_Kalyani (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\TAMu_Kalyani.ttf"
+"TAMu_Maduram (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\TAMu_Maduram.ttf"
+"TeXGyreAdventor-Bold (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreadventor-bold.otf"
+"TeXGyreAdventor-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreadventor-bolditalic.otf"
+"TeXGyreAdventor-Italic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreadventor-italic.otf"
+"TeXGyreAdventor-Regular (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreadventor-regular.otf"
+"TeXGyreBonum-Bold (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyrebonum-bold.otf"
+"TeXGyreBonum-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyrebonum-bolditalic.otf"
+"TeXGyreBonum-Italic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyrebonum-italic.otf"
+"TeXGyreBonum-Regular (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyrebonum-regular.otf"
+"TeXGyreChorus-MediumItalic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyrechorus-mediumitalic.otf"
+"TeXGyreCursor-Bold (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyrecursor-bold.otf"
+"TeXGyreCursor-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyrecursor-bolditalic.otf"
+"TeXGyreCursor-Italic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyrecursor-italic.otf"
+"TeXGyreCursor-Regular (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyrecursor-regular.otf"
+"TeXGyreHeros-Bold (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreheros-bold.otf"
+"TeXGyreHeros-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreheros-bolditalic.otf"
+"TeXGyreHeros-Italic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreheros-italic.otf"
+"TeXGyreHeros-Regular (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreheros-regular.otf"
+"TeXGyreHerosCondensed-Bold (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreheroscn-bold.otf"
+"TeXGyreHerosCondensed-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreheroscn-bolditalic.otf"
+"TeXGyreHerosCondensed-Italic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreheroscn-italic.otf"
+"TeXGyreHerosCondensed-Regular (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreheroscn-regular.otf"
+"TeXGyrePagella-Bold (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyrepagella-bold.otf"
+"TeXGyrePagella-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyrepagella-bolditalic.otf"
+"TeXGyrePagella-Italic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyrepagella-italic.otf"
+"TeXGyrePagella-Regular (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyrepagella-regular.otf"
+"TeXGyreSchola-Bold (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreschola-bold.otf"
+"TeXGyreSchola-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreschola-bolditalic.otf"
+"TeXGyreSchola-Italic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreschola-italic.otf"
+"TeXGyreSchola-Regular (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyreschola-regular.otf"
+"TeXGyreTermes-Bold (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyretermes-bold.otf"
+"TeXGyreTermes-BoldItalic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyretermes-bolditalic.otf"
+"TeXGyreTermes-Italic (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyretermes-italic.otf"
+"TeXGyreTermes-Regular (TrueType)"="Z:\\usr\\share\\fonts\\tex-gyre\\texgyretermes-regular.otf"
+"Times New Roman (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\times.ttf"
+"Times New Roman Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\timesi.ttf"
+"Times New Roman Grassetto (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\timesbd.ttf"
+"Times New Roman Grassetto Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\timesbi.ttf"
+"Tinos (TrueType)"="Z:\\usr\\share\\fonts\\croscore\\Tinos-Regular.ttf"
+"Tinos Bold (TrueType)"="Z:\\usr\\share\\fonts\\croscore\\Tinos-Bold.ttf"
+"Tinos Bold Italic (TrueType)"="Z:\\usr\\share\\fonts\\croscore\\Tinos-BoldItalic.ttf"
+"Tinos Italic (TrueType)"="Z:\\usr\\share\\fonts\\croscore\\Tinos-Italic.ttf"
+"Trebuchet MS (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\trebuc.ttf"
+"Trebuchet MS Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\trebucit.ttf"
+"Trebuchet MS Grassetto (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\trebucbd.ttf"
+"Trebuchet MS Grassetto Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\trebucbi.ttf"
+"TSCu_Comic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\TSCu_Comic.ttf"
+"TSCu_Paranar (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\TSCu_Paranar.ttf"
+"TSCu_Paranar Bold (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\TSCu_paranarb.ttf"
+"TSCu_Paranar Italic (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\TSCu_paranari.ttf"
+"TSCu_Times (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\TSCu_Times.ttf"
+"Unifont (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Unifont.ttf"
+"Unifont CSUR (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Unifont_CSUR.ttf"
+"Unifont Upper (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\Unifont_Upper.ttf"
+"URWBookman-Demi (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\URWBookman-Demi.otf"
+"URWBookman-DemiItalic (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\URWBookman-DemiItalic.otf"
+"URWBookman-Light (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\URWBookman-Light.otf"
+"URWBookman-LightItalic (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\URWBookman-LightItalic.otf"
+"URWGothic-Book (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\URWGothic-Book.otf"
+"URWGothic-BookOblique (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\URWGothic-BookOblique.otf"
+"URWGothic-Demi (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\URWGothic-Demi.otf"
+"URWGothic-DemiOblique (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\URWGothic-DemiOblique.otf"
+"Verdana (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\verdana.ttf"
+"Verdana Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\verdanai.ttf"
+"Verdana Grassetto (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\verdanab.ttf"
+"Verdana Grassetto Corsivo (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\verdanaz.ttf"
+"Webdings (TrueType)"="Z:\\usr\\share\\fonts\\TTF\\webdings.ttf"
+"WenQuanYi Micro Hei (TrueType)"="Z:\\usr\\share\\fonts\\wenquanyi\\wqy-microhei\\wqy-microhei.ttc"
+"WenQuanYi Micro Hei Mono (TrueType)"="Z:\\usr\\share\\fonts\\wenquanyi\\wqy-microhei\\wqy-microhei.ttc"
+"Wingdings (TrueType)"="Z:\\usr\\bin\\..\\share\\wine\\fonts\\wingding.ttf"
+"Z003-MediumItalic (TrueType)"="Z:\\usr\\share\\fonts\\gsfonts\\Z003-MediumItalic.otf"
+
+[Software\\Wine\\MenuFiles] 1527977479
+#time=1d3fabea2580292
+"/home/erolm_a/.config/menus/applications-merged/wine-LTspice XVII.menu"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/LTspice XVII.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CodeBlocks-CodeBlocks (Launcher).menu"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/CodeBlocks/CodeBlocks (Launcher).lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CodeBlocks-CodeBlocks CBP2Make.menu"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/CodeBlocks/CodeBlocks CBP2Make.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CodeBlocks-CodeBlocks Share Config.menu"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/CodeBlocks/CodeBlocks Share Config.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CodeBlocks-CodeBlocks.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CodeBlocks/CodeBlocks.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CodeBlocks-Uninstall CodeBlocks.menu"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/CodeBlocks/Uninstall CodeBlocks.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CrypTool-AES-Tool.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/AES-Tool.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CrypTool-CrypTool Help.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/CrypTool Help.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CrypTool-CrypTool.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/CrypTool.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CrypTool-CT Book.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/CT Book.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CrypTool-NumberShark Help.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/NumberShark Help.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CrypTool-NumberShark.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/NumberShark.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CrypTool-Presentation.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/Presentation.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CrypTool-ReadMe.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/ReadMe.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-CrypTool-Uninstall.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/Uninstall.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-IDA Pro-IDA Pro (32-bit).menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/IDA Pro/IDA Pro (32-bit).lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-IDA Pro-IDA Pro (64-bit).menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/IDA Pro/IDA Pro (64-bit).lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-IDA Pro-The Interactive Disassembler help.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/IDA Pro/The Interactive Disassembler help.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-IDA Pro-Uninstall.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/IDA Pro/Uninstall.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-Python 2.7-IDLE (Python GUI).menu"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/Python 2.7/IDLE (Python GUI).lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-Python 2.7-Module Docs.menu"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/Python 2.7/Module Docs.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-Python 2.7-Python (command line).menu"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/Python 2.7/Python (command line).lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-Python 2.7-Python Manuals.menu"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/Python 2.7/Python Manuals.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-Python 2.7-Uninstall Python.menu"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/Python 2.7/Uninstall Python.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-StarUML.menu"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/StarUML.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-XAMPP-Uninstall XAMPP.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/XAMPP/Uninstall XAMPP.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-XAMPP-XAMPP Control Panel.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/XAMPP/XAMPP Control Panel.lnk"
+"/home/erolm_a/.config/menus/applications-merged/wine-Programs-XAMPP-XAMPP htdocs folder.menu"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/XAMPP/XAMPP htdocs folder.lnk"
+"/home/erolm_a/.local/share/applications/wine/LTspice XVII.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/LTspice XVII.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CodeBlocks/CodeBlocks (Launcher).desktop"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/CodeBlocks/CodeBlocks (Launcher).lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CodeBlocks/CodeBlocks CBP2Make.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/CodeBlocks/CodeBlocks CBP2Make.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CodeBlocks/CodeBlocks Share Config.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/CodeBlocks/CodeBlocks Share Config.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CodeBlocks/CodeBlocks.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CodeBlocks/CodeBlocks.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CodeBlocks/Uninstall CodeBlocks.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/CodeBlocks/Uninstall CodeBlocks.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CrypTool/AES-Tool.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/AES-Tool.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CrypTool/CrypTool Help.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/CrypTool Help.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CrypTool/CrypTool.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/CrypTool.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CrypTool/CT Book.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/CT Book.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CrypTool/NumberShark Help.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/NumberShark Help.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CrypTool/NumberShark.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/NumberShark.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CrypTool/Presentation.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/Presentation.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CrypTool/ReadMe.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/ReadMe.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/CrypTool/Uninstall.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/CrypTool/Uninstall.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/IDA Pro/IDA Pro (32-bit).desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/IDA Pro/IDA Pro (32-bit).lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/IDA Pro/IDA Pro (64-bit).desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/IDA Pro/IDA Pro (64-bit).lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/IDA Pro/The Interactive Disassembler help.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/IDA Pro/The Interactive Disassembler help.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/IDA Pro/Uninstall.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/IDA Pro/Uninstall.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/Python 2.7/IDLE (Python GUI).desktop"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/Python 2.7/IDLE (Python GUI).lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/Python 2.7/Module Docs.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/Python 2.7/Module Docs.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/Python 2.7/Python (command line).desktop"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/Python 2.7/Python (command line).lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/Python 2.7/Python Manuals.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/Python 2.7/Python Manuals.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/Python 2.7/Uninstall Python.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/Python 2.7/Uninstall Python.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/StarUML.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/erolm_a/Start Menu/Programs/StarUML.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/XAMPP/Uninstall XAMPP.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/XAMPP/Uninstall XAMPP.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/XAMPP/XAMPP Control Panel.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/XAMPP/XAMPP Control Panel.lnk"
+"/home/erolm_a/.local/share/applications/wine/Programs/XAMPP/XAMPP htdocs folder.desktop"="/home/erolm_a/.wine/dosdevices/c:/users/Public/Start Menu/Programs/XAMPP/XAMPP htdocs folder.lnk"
+
+[Software\\Wine\\WineDbg] 1466063421
+#time=1d1c7a3bbc67ed4
