@@ -1,7 +1,6 @@
 # My Laptop configuration
 
-I am running Arch Linux (precisely, Manjaro, but am using my 
-custom flavour and testing branch) with my personal scripts
+I am running Arch Linux with my personal scripts
 
 # What I used
 
@@ -15,19 +14,17 @@ custom flavour and testing branch) with my personal scripts
 * i3-scrot
 * i3-exit
 * nitrogen
-* conky
 * pcmanfm
 * dmenu
-* bmenu
-* morc_menu (manjaro menu, available in Manjaro i3 spin)
+* rofi
 * sddm
 * compton
 * polybar (replacement for i3-status)
-* pavucontrol (for Audio)
 
 ## Themes
 * breeze-dark (both GTK and Qt)
-* breeze icons
+* paper-icon-dark
+* breeze-like wine register
 
 ## Packages
 The complete list is available in the `packages.txt` file. Some 
