@@ -19,13 +19,12 @@ I am running Arch Linux with my personal scripts
 * rofi
 * sddm
 * compton
+* termite
 * polybar (replacement for i3-status)
+
+All of the aforementioned packages can be found in official Arch repos!
 
 ## Themes
 * breeze-dark (both GTK and Qt)
 * paper-icon-dark
 * breeze-like wine register
-
-## Packages
-The complete list is available in the `packages.txt` file. Some 
-packages are available only in AUR.

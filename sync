@@ -22,7 +22,8 @@ if [ $# == 1 ]; then
     cp -pr ~/.config/cava .
     cp -pr ~/.ncmpcpp ncmpcpp
     cp -pr ~/.wine/user.reg wine/user.reg
-    cp -pr ~/.config/rofi rofi
+    cp -pr ~/.config/rofi .
+    cp -pr ~/.config/termite .
   elif [ $1 == pull ]; then
     mkdir -p $LOCAL_INSTALL/.i3
     mkdir -p $LOCAL_INSTALL/.config/conky
@@ -36,7 +37,8 @@ if [ $# == 1 ]; then
     cp -pr polybar $LOCAL_INSTALL/.config/
     cp -pr ncmpcpp $LOCAL_INSTALL/.ncmpcpp
     cp -pr cava $LOCAL_INSTALL/.config/
-    cp -pr rofi $LOCAL_INSTALL/.config
+    cp -pr rofi $LOCAL_INSTALL/.config/
+    cp -pr termite $LOCAL_INSTALL/.config/
     cp -pr wine/user.reg $LOCAL_INSTALL/.wine
   else
     echo "Wrong parametres"
