@@ -509,7 +509,7 @@ main_window_color = "blue"
 #color2 = "green"
 
 
-main_window_highlight_color = "black"
+#main_window_highlight_color = "white"
 
 
 
