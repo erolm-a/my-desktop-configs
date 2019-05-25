@@ -11,35 +11,40 @@ help()
 
 if [ $# == 1 ]; then
   if [ $1 == push ]; then
+    # save i3 config
     cp -pr ~/.i3/config i3.conf
     cp -pr ~/.i3status.conf i3status.conf
     cp -pr ~/.config/compton.conf .
+    # clone icons and theme
+    cp -pr ~/.icons/* icons
+    cp -pr ~/.themes/* themes
     cp -pr ~/.config/gtk-3.0 gtk/
     cp -pr ~/.gtkrc-2.0 gtk/gtkrc-2.0
-    # I'm not using conky anymore
-    # cp -pr ~/.config/conky/ .
+    # save polybar
     cp -pr ~/.config/polybar .
     cp -pr ~/.config/cava .
     cp -pr ~/.ncmpcpp ncmpcpp
-    cp -pr ~/.wine/user.reg wine/user.reg
     cp -pr ~/.config/rofi .
     cp -pr ~/.config/termite .
   elif [ $1 == pull ]; then
-    mkdir -p $LOCAL_INSTALL/.i3
-    mkdir -p $LOCAL_INSTALL/.config/conky
-
+    mkdir -p $LOCAL_INSTALL/.{i3,icons,themes,.config/gtk-3.0,.gtkrc-2.0}
+    # restore i3 config
     cp -pr i3.conf $LOCAL_INSTALL/.i3/config
     cp -pr i3status.conf $LOCAL_INSTALL/.i3status.conf
     cp -pr compton.conf $LOCAL_INSTALL/.config/
+    # copy the gtk theme
     cp -pr gtk/gtk-3.0 $LOCAL_INSTALL/.config/gtk-3.0
     cp -pr gtk/gtkrc-2.0 $LOCAL_INSTALL/.gtkrc-2.0
-    # cp -pr conky $LOCAL_INSTALL/.config/
+    cp -pr icons/* $LOCAL_INSTALL/.icons/
+    cp -pr themes/* $LOCAL_INSTALL/.themes/
+    # copy polybar
     cp -pr polybar $LOCAL_INSTALL/.config/
     cp -pr ncmpcpp $LOCAL_INSTALL/.ncmpcpp
     cp -pr cava $LOCAL_INSTALL/.config/
+    # save rofi theme
     cp -pr rofi $LOCAL_INSTALL/.config/
     cp -pr termite $LOCAL_INSTALL/.config/
-    cp -pr wine/user.reg $LOCAL_INSTALL/.wine
+    # cp -pr wine/user.reg $LOCAL_INSTALL/.wine
   else
     echo "Wrong parametres"
     help
