@@ -12,9 +12,9 @@ help()
 if [ $# == 1 ]; then
   if [ $1 == push ]; then
     # save i3 config
-    cp -pr ~/.i3/config i3.conf
+    cp -pr ~/.config/i3/config i3.conf
     cp -pr ~/.i3status.conf i3status.conf
-    cp -pr ~/.config/compton.conf .
+    cp -pr ~/.config/picom.conf .
     # clone icons and theme
     cp -pr ~/.icons/* icons
     cp -pr ~/.themes/* themes
@@ -29,9 +29,9 @@ if [ $# == 1 ]; then
   elif [ $1 == pull ]; then
     mkdir -p $LOCAL_INSTALL/.{i3,icons,themes,.config/gtk-3.0,.gtkrc-2.0}
     # restore i3 config
-    cp -pr i3.conf $LOCAL_INSTALL/.i3/config
+    cp -pr i3.conf $LOCAL_INSTALL/.config/i3/config
     cp -pr i3status.conf $LOCAL_INSTALL/.i3status.conf
-    cp -pr compton.conf $LOCAL_INSTALL/.config/
+    cp -pr picom.conf $LOCAL_INSTALL/.config/
     # copy the gtk theme
     cp -pr gtk/gtk-3.0 $LOCAL_INSTALL/.config/gtk-3.0
     cp -pr gtk/gtkrc-2.0 $LOCAL_INSTALL/.gtkrc-2.0

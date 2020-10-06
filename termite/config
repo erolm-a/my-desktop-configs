@@ -1,9 +1,9 @@
 [options]
-#allow_bold = true
+allow_bold = true
 audible_bell = true
-#clickable_url = true
+clickable_url = true
 #dynamic_title = true
-font = Inconsolata 11
+font = Inconsolata 15
 # fullscreen = true
 #geometry = 640x480
 #icon_name = terminal
@@ -46,10 +46,10 @@ cursor_foreground = #dcdccc
 
 #foreground = #dcdccc
 #foreground_bold = #ffffff
-background = #000000
+#background = #303030
 
 # 20% background transparency (requires a compositor)
-background = rgba(0, 0, 10, 0.8)
+background = rgba(48, 48, 48, 0.8)
 
 # If unset, will reverse foreground and background
 highlight = #2f2f2f
