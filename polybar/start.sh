@@ -7,7 +7,12 @@ killall -q polybar
 while pgrep -u $UID -x "polybar -r" >/dev/null; do sleep 1; done
 
 # Launch bar1 and bar2
-polybar main &
+
+if type "xrandr"; then # I cannot possibly think of a X11 installation without xrandr though
+    for monitor in $(xrandr --query | grep " connected" | cut -d" " -f1); do
+        MONITOR=$monitor polybar main &
+    done
+fi
 
 echo "Bars launched..."
 

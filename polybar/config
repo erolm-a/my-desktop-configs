@@ -19,7 +19,7 @@ secondary = #e60053
 alert = #bd2c40
 
 [bar/main]
-;monitor = ${env:MONITOR:HDMI-1}
+monitor = ${env:MONITOR}
 width = 100%
 ;height = 27
 height = 25
@@ -50,10 +50,15 @@ module-margin-right = 2
 #font-2 = MaterialDesignIcons:pixelsize=10;1
 
 font-0 = Hack:size=8;3
-font-1 = "Font Awesome 5 Free:style=Solid:pixelsize=10;3"
-font-2 = "Font Awesome 5 Free:style=Regular:pixelsize=10;3"
-font-3 = "Font Awesome 5 Brands:pixelsize=10;3"
+font-1 = FontAwesome:size=10;3
+font-2 = Noto Color Emoji:scale=9
+#font-1 = FontAwesome5Free:style=Solid:size=10;3
+#font-2 = FontAwesome5Brands:pixelsize=10;3
 
+;font-3 = "Font Awesome 5 Brands:pixelsize=10;3"
+;font-1 = "Font Awesome 5 Free:style=Solid:pixelsize=10;3"
+;font-2 = "Font Awesome 5 Free:style=Regular:pixelsize=10;3"
+;font-3 = "Font Awesome 5 Brands:pixelsize=10;3"
 
 ;font-0 = Roboto:fontformat=truetype:size=11;1
 ;font-1 = Roboto:fontformat=truetype:size=10;1
@@ -61,7 +66,7 @@ font-3 = "Font Awesome 5 Brands:pixelsize=10;3"
 
 modules-left = i3
 modules-center = spotify
-modules-right = filesystem xbacklight volume memory cpu wlan battery temperature date powermenu
+modules-right = filesystem xbacklight pulseaudio memory cpu wlan battery-combined-udev temperature date powermenu
 
 tray-position = right
 tray-padding = 2
@@ -133,22 +138,34 @@ type = internal/i3
 format = <label-state> <label-mode>
 index-sort = true
 wrapping-scroll = false
-
 strip-wsnumbers = true
-ws-icon-0 = 1:Terminal;
-ws-icon-1 = 2:Chrome;
-ws-icon-2 = 3:Spotify;
-ws-icon-3 = 4:Steam;
-ws-icon-4 = 5:Discord;
-ws-icon-5 = 6:Slack;
-ws-icon-6 = 7:Code;
-ws-icon-7 = 8:Files;
-ws-icon-8 = 9;9
-ws-icon-9 = 10;10
+
+ws-icon-0 = 0;0
+ws-icon-1 = 1;1
+ws-icon-2 = 2;2
+ws-icon-3 = 3;3
+ws-icon-4 = 4;4
+ws-icon-5 = 5;5
+ws-icon-6 = 6;6
+ws-icon-7 = 7;7
+ws-icon-8 = 8;8
+ws-icon-9 = 9;9
+ws-icon-10 = 10;10
+
+;ws-icon-0 = 1;
+;ws-icon-1 = 2;
+;ws-icon-2 = 3;
+;ws-icon-3 = 4;
+;ws-icon-4 = 5;
+;ws-icon-5 = 6;
+;ws-icon-6 = 7;
+;ws-icon-7 = 8;
+;ws-icon-8 = 9;9
+;ws-icon-9 = 10;10
 ws-icon-default = 
 
 ; Only show workspaces on the same output as the bar
-;pin-workspaces = true
+pin-workspaces = true
 
 label-mode-padding = 2
 label-mode-foreground = #000
@@ -198,6 +215,8 @@ bar-progress-empty = ─
 
 [module/xbacklight]
 type = internal/xbacklight
+
+output = eDP-1
 
 format =  <label>
 ;label = BL
@@ -277,16 +296,34 @@ type = internal/date
 interval = 1
 
 date = " %a %b %e,"
-date-alt = " %Y-%m-%d"
+date-alt = "%d-%m-%Y"
 
 time = %H:%M
-time-alt = %l:%M:%S
+time-alt = %H:%M:%S
 
 format-prefix = 
 format-prefix-foreground = ${colors.foreground-alt}
 format-underline = #0a6cf5
 
 label = %date% %time%
+
+[module/pulseaudio]
+type = internal/pulseaudio
+
+use-ui-max = true
+
+interval = 5
+format-volume = <ramp-volume> <label-volume>
+
+label-muted = 🔇 muted
+label-muted-foreground = #666
+
+; Only applies if <ramp-volume> is used
+ramp-volume-0 = 🔈
+ramp-volume-1 = 🔉
+ramp-volume-2 = 🔊
+
+click-right = pavucontrol &
 
 [module/volume]
 type = internal/volume
@@ -321,11 +358,47 @@ ramp-volume-0 = 
 ramp-volume-1 = 
 ramp-volume-2 = 
 
-[module/battery]
+[module/battery0]
 type = internal/battery
 battery = BAT0
 adapter = AC
-full-at = 96
+full-at = 99
+
+time-format = %k:%M
+
+label-discharging = %percentage%% %time%
+label-charging = %percentage%% %time%
+
+format-charging = <animation-charging> <label-charging>
+format-charging-underline = #ffb52a
+
+format-discharging = <ramp-capacity> <label-discharging>
+format-discharging-underline = ${self.format-charging-underline}
+
+format-full-prefix = " "
+format-full-prefix-foreground = ${colors.foreground-alt}
+format-full-underline = ${self.format-charging-underline}
+
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+ramp-capacity-foreground = ${colors.foreground-alt}
+
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 =  
+animation-charging-foreground = ${colors.foreground-alt}
+animation-charging-framerate = 750
+
+[module/battery1]
+type = internal/battery
+battery = BAT1
+adapter = AC
+full-at = 99
 
 time-format = %k:%M
 
@@ -414,7 +487,6 @@ screenchange-reload = true
 margin-top = 5
 margin-bottom = 5
 
-; vim:ft=dosini
 
 [module/spotify]
 type = custom/script
@@ -423,3 +495,10 @@ click-left = playerctl -p spotify play-pause
 tail = true
 interval = 1
 format-underline = #1db954
+
+[module/battery-combined-udev]
+type = custom/script
+exec = bash ~/.config/polybar/battery-combined-udev/battery-combined-udev.sh
+tail = true
+
+; vim:ft=dosini

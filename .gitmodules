@@ -1,0 +1,6 @@
+[submodule "3rdparty/icons-in-terminal"]
+	path = 3rdparty/icons-in-terminal
+	url = https://github.com/sebastiencs/icons-in-terminal.git
+[submodule "3rdparty/ls-icons"]
+	path = 3rdparty/ls-icons
+	url = https://github.com/sebastiencs/ls-icons
