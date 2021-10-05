@@ -49,9 +49,16 @@ module-margin-right = 2
 #font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 #font-2 = MaterialDesignIcons:pixelsize=10;1
 
+# font-1 = Noto Sans:size=8;3
+# font-2 = FontAwesome:size=10;3
+
+# font-0 = Noto Sans:size=10:antialias=true;0				# Main
 font-0 = Hack:size=8;3
-font-1 = FontAwesome:size=10;3
-font-2 = Noto Color Emoji:scale=9
+font-1 = Noto Sans Symbols:size=10:antialias=true;0		# Emoji + support
+font-2 = FontAwesome:size=10;3
+font-3 = Noto Color Emoji:scale=9
+#font-2 = Wuncon Siji:antialias=false:pixelsize=8;1		# Symbols (CPU, RAM, etc.)
+font-4 = Noto Sans CJK JP:size=10:antialias=true;0		# (Japanese) Band names, etc.#
 #font-1 = FontAwesome5Free:style=Solid:size=10;3
 #font-2 = FontAwesome5Brands:pixelsize=10;3
 
@@ -66,6 +73,7 @@ font-2 = Noto Color Emoji:scale=9
 
 modules-left = i3
 modules-center = spotify
+#modules-right = filesystem xbacklight pulseaudio memory cpu wlan battery-combined-udev temperature date powermenu
 modules-right = filesystem xbacklight pulseaudio memory cpu wlan battery-combined-udev temperature date powermenu
 
 tray-position = right
@@ -192,11 +200,11 @@ label-urgent = %icon%
 label-urgent-background = ${module/bspwm.label-urgent-background}
 label-urgent-padding = ${module/bspwm.label-urgent-padding}
 
-[module/mpd]
-type = internal/mpd
-format-offline  mpd is offline
+#[module/mpd]
+#type = internal/mpd
+#format-offline  mpd is offline
 ;format-online = <label-song>  <icon-prev> <icon-stop> <toggle> <icon-next>
-format-online = <icon-prev> <icon-stop> <toggle> <icon-next> <bar-progress> <label-time>  <label-song>
+#format-online = <icon-prev> <icon-stop> <toggle> <icon-next> <bar-progress> <label-time>  <label-song>
 
 
 icon-prev = 
@@ -358,7 +366,7 @@ ramp-volume-0 = 
 ramp-volume-1 = 
 ramp-volume-2 = 
 
-[module/battery0]
+[module/battery]
 type = internal/battery
 battery = BAT0
 adapter = AC
